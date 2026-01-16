@@ -1,0 +1,544 @@
+school_id,school_code,school_name,principal_name,sector,network,network_from_pdf,city_council_district,grades_served,admission_category,report_type,enrollment_oct1,students_served_full_year,pct_american_indian,pct_asian,pct_black,pct_hispanic,pct_multiracial,pct_pacific_islander,pct_white,pct_iep,pct_english_learners,pct_economically_disadvantaged,student_attendance_2324,teacher_attendance_2324,pct_attend_95plus,pct_attend_90plus,dropouts_2324,graduation_rate_2324,keystone_algebra_2324,keystone_biology_2324,keystone_literature_2324,pssa_grade3_reading,pssa_grade3_8_reading,pssa_grade3_math,pssa_grade3_8_math,pssa_science,nocti_2324,pdf_url
+1010,1010,John Bartram High School,"Brian Johnson
+Sector District",District,Network 12,Network 12,District 2,9-12,Catchment,High School,519,679.0,0.0,3.5,77.3,16.0,3.1,0.0,0.2,24.3,21.8,80.7,40.4,70.3,25.6,40.4,31.0,78.6,9.3,13.9,22.4,,,,,,,https://cdn.philasd.org/offices/performance/SPREE_Files/2023-2024/Reports/%5B1010%5D_SP_SPREE_SPOTlight.pdf
+1020,1020,West Philadelphia High School,"Marla Travis Curtis
+Sector District",District,Network 12,Network 12,District 3,9-12,Catchment,High School,593,660.0,0.5,1.0,88.7,4.4,4.4,0.0,1.0,29.5,5.4,89.0,39.7,82.4,18.5,39.7,22.0,80.0,3.0,3.0,24.2,,,,,,4.6,https://cdn.philasd.org/offices/performance/SPREE_Files/2023-2024/Reports/%5B1020%5D_SP_SPREE_SPOTlight.pdf
+1030,1030,High School of the Future,"John Smith Jr
+Sector District",District,Network 12,Network 12,District 4,9-12,Citywide,High School,560,562.0,0.9,1.1,92.5,3.6,0.9,0.0,1.1,24.8,2.0,88.2,36.8,72.3,14.6,36.8,14.0,90.2,4.1,9.0,23.3,,,,,,,https://cdn.philasd.org/offices/performance/SPREE_Files/2023-2024/Reports/%5B1030%5D_SP_SPREE_SPOTlight.pdf
+1050,1050,Paul Robeson High School for Human Services,"Lawrence King
+Sector District",District,Network 12,Network 12,District 3,9-12,Citywide,High School,289,297.0,0.0,0.4,95.5,2.4,1.0,0.0,0.7,19.0,5.2,83.0,58.3,83.3,30.0,58.3,2.0,94.9,23.6,25.0,66.7,,,,,,,https://cdn.philasd.org/offices/performance/SPREE_Files/2023-2024/Reports/%5B1050%5D_SP_SPREE_SPOTlight.pdf
+1100,1100,William L. Sayre High School,"Jamie Eberle
+Sector District",District,Network 12,Network 12,District 3,9-12,Catchment,High School,423,544.0,0.2,0.5,90.5,3.6,4.5,0.0,0.7,38.5,3.3,85.1,42.8,85.3,24.6,42.8,14.0,81.4,5.0,10.3,25.5,,,,,,,https://cdn.philasd.org/offices/performance/SPREE_Files/2023-2024/Reports/%5B1100%5D_SP_SPREE_SPOTlight.pdf
+1130,1130,William T. Tilden Middle School,,District,Network 1,Network 1,District 2,5-8,Catchment,High School,279,351.0,0.0,8.2,75.6,12.5,1.1,0.0,2.5,20.4,21.5,83.9,62.1,69.6,36.5,62.1,2.0,,,,,,17.6,,2.9,11.5,,https://cdn.philasd.org/offices/performance/SPREE_Files/2023-2024/Reports/%5B1130%5D_SP_SPREE_SPOTlight.pdf
+1190,1190,Motivation High School,,District,Network 15,Network 15,District 3,9-12,Criteria,High School,239,246.0,0.4,0.8,92.5,2.9,2.5,0.0,0.8,18.8,10.0,86.6,69.9,89.5,37.0,69.9,0.0,89.7,10.8,15.0,38.5,,,,,,,https://cdn.philasd.org/offices/performance/SPREE_Files/2023-2024/Reports/%5B1190%5D_SP_SPREE_SPOTlight.pdf
+1200,1200,John Barry School,"Ismil Lamarr
+Sector District",District,Network 1,Network 1,District 4,K-8,Catchment,High School,489,603.0,0.0,0.4,92.8,5.3,1.2,0.0,0.2,23.3,1.8,88.6,38.5,80.9,20.2,38.5,0.0,,,,,5.9,15.4,0.0,2.5,21.4,,https://cdn.philasd.org/offices/performance/SPREE_Files/2023-2024/Reports/%5B1200%5D_SP_SPREE_SPOTlight.pdf
+1230,1230,William C. Bryant School,"Bahir Hayes
+Sector District",District,Network 1,Network 1,District 3,K-8,Catchment,High School,335,394.0,0.3,2.4,89.9,5.1,1.5,0.0,0.9,16.4,6.0,83.9,70.3,64.5,43.2,70.3,2.0,,,,,30.0,20.5,16.1,4.1,28.3,,https://cdn.philasd.org/offices/performance/SPREE_Files/2023-2024/Reports/%5B1230%5D_SP_SPREE_SPOTlight.pdf
+1250,1250,Joseph W. Catharine School,"Lisa Wilmer
+Sector District",District,Network 1,Network 1,District 2,K-5,Catchment,High School,397,449.0,0.5,6.3,66.3,19.7,5.8,0.3,1.3,15.9,24.7,78.6,73.1,82.4,53.5,73.1,23.0,,,,,29.6,22.7,20.4,18.2,47.7,,https://cdn.philasd.org/offices/performance/SPREE_Files/2023-2024/Reports/%5B1250%5D_SP_SPREE_SPOTlight.pdf
+1260,1260,Benjamin B. Comegys School,"Rauchaun Dupree
+Sector District",District,Network 1,Network 1,District 3,K-8,Catchment,High School,265,322.0,0.0,0.8,93.2,3.4,1.5,0.0,1.1,23.8,1.9,90.2,37.0,75.0,16.8,37.0,0.0,,,,,,18.0,,4.3,19.0,,https://cdn.philasd.org/offices/performance/SPREE_Files/2023-2024/Reports/%5B1260%5D_SP_SPREE_SPOTlight.pdf
+1280,1280,Sadie T.M. Alexander UPenn Partnership School,"Lauren Overton
+Sector District",District,Network 1,Network 1,District 3,K-8,Catchment,High School,584,588.0,0.3,25.3,12.7,5.1,10.1,0.2,46.2,11.5,10.8,30.0,95.9,95.1,82.7,95.9,0.0,,,,,87.3,89.2,83.1,84.9,94.7,,https://cdn.philasd.org/offices/performance/SPREE_Files/2023-2024/Reports/%5B1280%5D_SP_SPREE_SPOTlight.pdf
+1290,1290,Andrew Hamilton School,"Torrence Rothmiller
+Sector District",District,Network 1,Network 1,District 3,K-8,Catchment,High School,354,411.0,1.4,0.9,93.2,4.0,0.3,0.0,0.3,28.3,2.0,86.4,43.1,90.0,20.0,43.1,0.0,,,,,19.1,17.6,9.5,6.3,23.5,,https://cdn.philasd.org/offices/performance/SPREE_Files/2023-2024/Reports/%5B1290%5D_SP_SPREE_SPOTlight.pdf
+1300,1300,Avery D. Harrington School,"Marlita Thorn
+Sector District",District,Network 1,Network 1,District 3,K-8,Catchment,High School,289,333.0,0.0,0.4,91.0,4.8,2.1,0.0,1.7,28.4,1.7,86.2,50.1,83.3,27.0,50.2,0.0,,,,,26.9,26.5,19.2,11.6,17.0,,https://cdn.philasd.org/offices/performance/SPREE_Files/2023-2024/Reports/%5B1300%5D_SP_SPREE_SPOTlight.pdf
+1340,1340,Henry C. Lea School,"Julia Snyder
+Sector District",District,Network 1,Network 1,District 3,K-8,Catchment,High School,461,507.0,0.4,17.2,58.9,7.4,3.5,0.2,12.4,18.2,20.8,67.5,67.5,74.4,42.4,67.5,2.0,,,,,43.9,36.1,39.0,22.8,33.0,,https://cdn.philasd.org/offices/performance/SPREE_Files/2023-2024/Reports/%5B1340%5D_SP_SPREE_SPOTlight.pdf
+1350,1350,William C. Longstreth School,"Nicole Harris
+Sector District",District,Network 1,Network 1,District 3,K-8,Catchment,High School,248,307.0,0.4,0.0,94.8,3.2,0.8,0.0,0.8,34.7,2.0,87.9,47.2,78.3,25.1,47.2,0.0,,,,,8.3,15.6,,0.6,25.5,,https://cdn.philasd.org/offices/performance/SPREE_Files/2023-2024/Reports/%5B1350%5D_SP_SPREE_SPOTlight.pdf
+1360,1360,Morton McMichael School,,District,Network 3,Network 3,District 3,K-8,Catchment,High School,272,309.0,0.7,0.0,94.1,1.8,1.8,0.0,1.5,35.7,1.1,87.5,42.1,80.0,18.5,42.1,0.0,,,,,30.4,17.3,30.4,9.8,13.9,,https://cdn.philasd.org/offices/performance/SPREE_Files/2023-2024/Reports/%5B1360%5D_SP_SPREE_SPOTlight.pdf
+1370,1370,S. Weir Mitchell School,"Tisha Dunn
+Sector District",District,Network 1,Network 1,District 3,K-8,Catchment,High School,296,359.0,0.0,0.7,93.2,3.0,2.7,0.0,0.3,17.9,1.7,90.2,42.1,80.7,21.7,42.1,1.0,,,,,11.1,15.5,2.7,4.3,27.5,,https://cdn.philasd.org/offices/performance/SPREE_Files/2023-2024/Reports/%5B1370%5D_SP_SPREE_SPOTlight.pdf
+1380,1380,Thomas G. Morton School,"Andrew Brooking
+Sector District",District,Network 1,Network 1,District 2,K-5,Catchment,High School,352,437.0,0.3,3.7,81.5,10.2,1.7,0.0,2.6,25.9,13.1,81.0,63.4,68.8,35.9,63.4,23.0,,,,,26.3,21.8,8.8,9.7,33.9,,https://cdn.philasd.org/offices/performance/SPREE_Files/2023-2024/Reports/%5B1380%5D_SP_SPREE_SPOTlight.pdf
+1390,1390,Samuel Powel School,"Kimberly Ellerbee
+Sector District",District,Network 3,Network 3,District 3,K-4,Catchment,High School,312,323.0,0.6,4.5,59.9,5.1,4.2,0.0,25.6,22.8,2.2,53.9,80.5,81.8,56.0,80.5,23.0,,,,,60.4,63.0,45.8,60.9,84.1,,https://cdn.philasd.org/offices/performance/SPREE_Files/2023-2024/Reports/%5B1390%5D_SP_SPREE_SPOTlight.pdf
+1400,1400,John M. Patterson School,,District,Network 1,Network 1,District 2,K-4,Catchment,High School,351,411.0,0.3,5.1,82.9,6.6,3.4,0.0,1.7,18.5,10.3,80.1,60.8,92.6,39.4,60.8,23.0,,,,,22.6,19.7,8.1,9.6,46.7,,https://cdn.philasd.org/offices/performance/SPREE_Files/2023-2024/Reports/%5B1400%5D_SP_SPREE_SPOTlight.pdf
+1410,1410,James Rhoads School,"Megan Wapner
+Sector District",District,Network 3,Network 3,District 3,K-8,Catchment,High School,406,502.0,0.0,1.2,94.6,2.7,0.7,0.0,0.7,27.8,1.5,86.2,40.6,85.7,17.9,40.6,1.0,,,,,23.1,14.7,16.7,6.3,29.4,,https://cdn.philasd.org/offices/performance/SPREE_Files/2023-2024/Reports/%5B1410%5D_SP_SPREE_SPOTlight.pdf
+1420,1420,Martha Washington School,"Lakeisha Patrick
+Sector District",District,Network 3,Network 3,District 3,K-8,Catchment,High School,220,256.0,0.0,2.3,85.5,5.0,4.1,0.0,3.2,47.7,2.3,87.3,48.8,88.5,25.8,48.8,0.0,,,,,,28.8,,7.4,42.6,,https://cdn.philasd.org/offices/performance/SPREE_Files/2023-2024/Reports/%5B1420%5D_SP_SPREE_SPOTlight.pdf
+1440,1440,Penrose School,"Carol Trench
+Sector District",District,Network 1,Network 1,District 2,K-8,Catchment,High School,377,427.0,0.3,5.0,81.7,6.6,4.8,0.0,1.6,36.3,11.7,84.6,53.2,88.4,31.6,53.2,0.0,,,,,27.0,25.4,16.2,8.8,35.4,,https://cdn.philasd.org/offices/performance/SPREE_Files/2023-2024/Reports/%5B1440%5D_SP_SPREE_SPOTlight.pdf
+1460,1460,Add B. Anderson School,"Kristin Johnson
+Sector District",District,Network 1,Network 1,District 3,K-8,Catchment,High School,369,431.0,0.3,0.3,93.5,4.1,1.4,0.0,0.5,20.9,1.9,84.8,49.9,70.6,27.8,49.9,0.0,,,,,10.8,19.6,2.7,4.0,18.8,,https://cdn.philasd.org/offices/performance/SPREE_Files/2023-2024/Reports/%5B1460%5D_SP_SPREE_SPOTlight.pdf
+1470,1470,Alain Locke School,"Baretta Massey
+Sector District",District,Network 3,Network 3,District 3,K-8,Catchment,High School,261,329.0,0.4,8.4,77.4,8.1,3.8,0.0,1.9,31.8,11.1,84.3,45.6,86.2,22.5,45.6,0.0,,,,,20.0,23.2,7.7,12.9,30.2,,https://cdn.philasd.org/offices/performance/SPREE_Files/2023-2024/Reports/%5B1470%5D_SP_SPREE_SPOTlight.pdf
+1490,1490,Rudolph Blankenburg School,"Sheena Wilson
+Sector District",District,Network 3,Network 3,District 3,K-8,Catchment,High School,243,312.0,0.4,0.0,95.1,3.3,0.8,0.0,0.4,25.1,0.0,92.2,37.8,75.0,17.0,37.8,1.0,,,,,30.0,14.2,0.0,2.6,15.7,,https://cdn.philasd.org/offices/performance/SPREE_Files/2023-2024/Reports/%5B1490%5D_SP_SPREE_SPOTlight.pdf
+1580,1580,Middle Years Alternative School,"Toni Damon
+Sector District",District,Network 3,Network 3,District 3,5-8,Citywide,High School,155,158.0,0.0,3.2,80.0,13.6,2.6,0.0,0.7,25.2,7.7,88.4,68.4,76.9,43.0,68.4,3.0,,,,,,33.8,,13.5,46.7,,https://cdn.philasd.org/offices/performance/SPREE_Files/2023-2024/Reports/%5B1580%5D_SP_SPREE_SPOTlight.pdf
+2000,2000,South Philadelphia High School,,District,Network 12,Network 12,District 1,9-12,Catchment,High School,631,790.0,0.0,9.7,37.9,39.9,4.3,0.0,8.2,26.8,42.6,73.5,39.9,76.6,22.0,39.9,79.0,63.7,11.0,14.7,34.7,,,,,,35.5,https://cdn.philasd.org/offices/performance/SPREE_Files/2023-2024/Reports/%5B2000%5D_SP_SPREE_SPOTlight.pdf
+2010,2010,Benjamin Franklin High School,"Khailiah Canada
+Sector District",District,Network 13,Network 13,District 5,9-12,Catchment,High School,545,657.0,0.0,2.6,69.2,20.7,4.2,0.0,3.3,32.1,16.7,82.2,31.7,81.6,15.5,31.7,25.0,80.3,5.6,7.9,17.7,,,,,,36.0,https://cdn.philasd.org/offices/performance/SPREE_Files/2023-2024/Reports/%5B2010%5D_SP_SPREE_SPOTlight.pdf
+2020,2020,High School for Creative and Performing Arts,"Jennifer Melendez
+Sector District",District,Network 15,Network 15,District 2,9-12,Criteria,High School,656,657.0,0.0,5.3,47.7,12.5,5.8,0.2,28.5,5.3,2.0,52.1,78.5,86.5,46.4,78.5,1.0,98.3,35.8,43.9,85.5,,,,,,65.0,https://cdn.philasd.org/offices/performance/SPREE_Files/2023-2024/Reports/%5B2020%5D_SP_SPREE_SPOTlight.pdf
+2050,2050,Science Leadership Academy Middle School,"Timothy Boyle
+Sector District",District,Network 3,Network 3,District 3,5-8,Catchment,High School,352,364.0,0.3,6.5,59.4,5.7,5.1,0.0,23.0,18.2,2.3,58.0,77.2,94.4,50.8,77.2,0.0,,,,,,56.8,,25.0,41.4,,https://cdn.philasd.org/offices/performance/SPREE_Files/2023-2024/Reports/%5B2050%5D_SP_SPREE_SPOTlight.pdf
+2140,2140,Julia R. Masterman High School,"Gordon Laurie
+Sector District",District,Network 15,Network 15,District 5,5-12,Criteria,High School,1199,,0.0,27.5,16.6,8.0,7.8,0.3,39.8,,1.0,39.7,96.2,78.7,80.7,96.2,0.0,100.0,98.2,99.1,100.0,,94.3,,84.4,97.9,,https://cdn.philasd.org/offices/performance/SPREE_Files/2023-2024/Reports/%5B2140%5D_SP_SPREE_SPOTlight.pdf
+2160,2160,Horace Furness High School,"Daniel Peou
+Sector District",District,Network 12,Network 12,District 1,9-12,Catchment,High School,821,945.0,0.0,31.3,17.8,40.7,3.5,0.2,6.5,14.5,53.0,64.8,53.1,85.3,33.0,53.1,58.0,81.0,18.0,20.4,34.6,,,,,,,https://cdn.philasd.org/offices/performance/SPREE_Files/2023-2024/Reports/%5B2160%5D_SP_SPREE_SPOTlight.pdf
+2190,2190,D. Newlin Fell School,"Omahr Ashe
+Sector District",District,Network 2,Network 2,District 1,K-8,Catchment,High School,532,602.0,0.2,30.5,8.3,37.2,3.2,0.0,20.7,14.3,42.1,74.1,70.4,83.3,47.0,70.4,4.0,,,,,60.4,49.0,57.5,34.4,45.5,,https://cdn.philasd.org/offices/performance/SPREE_Files/2023-2024/Reports/%5B2190%5D_SP_SPREE_SPOTlight.pdf
+2210,2210,Bache-Martin School,"Matthew Tossman
+Sector District",District,Network 4,Network 4,District 5,K-8,Catchment,High School,533,552.0,0.0,2.6,41.5,13.7,3.9,0.2,38.1,38.3,6.4,55.4,74.1,79.6,49.8,74.1,0.0,,,,,46.3,43.2,42.0,34.2,48.0,,https://cdn.philasd.org/offices/performance/SPREE_Files/2023-2024/Reports/%5B2210%5D_SP_SPREE_SPOTlight.pdf
+2240,2240,F. Amedee Bregy School,"Rachel Marianno
+Sector District",District,Network 2,Network 2,District 2,K-8,Catchment,High School,220,241.0,0.5,7.7,49.1,10.9,8.6,0.0,23.2,40.5,8.2,82.7,67.6,84.0,39.4,67.6,0.0,,,,,15.0,28.0,20.0,17.2,37.7,,https://cdn.philasd.org/offices/performance/SPREE_Files/2023-2024/Reports/%5B2240%5D_SP_SPREE_SPOTlight.pdf
+2260,2260,George W. Childs School,"Janis Butler
+Sector District",District,Network 2,Network 2,District 2,K-8,Catchment,High School,410,467.0,0.0,16.1,42.0,28.1,5.9,0.0,8.1,27.1,27.3,77.3,60.4,78.1,39.6,60.4,1.0,,,,,39.5,28.2,38.1,17.1,29.3,,https://cdn.philasd.org/offices/performance/SPREE_Files/2023-2024/Reports/%5B2260%5D_SP_SPREE_SPOTlight.pdf
+2290,2290,Franklin Learning Center,"Nicole Lee
+Sector District",District,Network 15,Network 15,District 5,9-12,Criteria,High School,765,801.0,0.3,11.9,48.2,30.5,2.8,0.4,6.0,7.1,22.0,79.2,61.2,83.6,35.3,61.2,17.0,89.5,25.1,45.8,78.0,,,,,,78.7,https://cdn.philasd.org/offices/performance/SPREE_Files/2023-2024/Reports/%5B2290%5D_SP_SPREE_SPOTlight.pdf
+2320,2320,Stephen Girard School,"Elizabeth Walls
+Sector District",District,Network 2,Network 2,District 2,K-4,Catchment,High School,278,319.0,0.0,19.4,53.6,11.5,4.0,0.0,11.5,19.4,18.4,78.1,54.9,91.3,32.3,54.9,23.0,,,,,24.0,35.3,16.0,25.6,66.7,,https://cdn.philasd.org/offices/performance/SPREE_Files/2023-2024/Reports/%5B2320%5D_SP_SPREE_SPOTlight.pdf
+2340,2340,General George A. McCall School,"Antoinette Powell
+Sector District",District,Network 4,Network 4,District 1,K-8,Catchment,High School,617,656.0,0.0,44.6,11.5,4.4,10.1,0.2,29.3,13.3,17.0,44.7,89.6,82.9,73.3,89.6,0.0,,,,,79.7,81.9,72.9,73.8,82.4,,https://cdn.philasd.org/offices/performance/SPREE_Files/2023-2024/Reports/%5B2340%5D_SP_SPREE_SPOTlight.pdf
+2370,2370,Delaplaine McDaniel School,"Austin Wallace
+Sector District",District,Network 2,Network 2,District 2,K-8,Catchment,High School,231,315.0,0.0,3.9,76.6,13.0,3.9,0.0,2.6,19.1,6.9,82.3,38.7,83.3,16.2,38.7,1.0,,,,,,18.2,,3.9,18.0,,https://cdn.philasd.org/offices/performance/SPREE_Files/2023-2024/Reports/%5B2370%5D_SP_SPREE_SPOTlight.pdf
+2380,2380,William M. Meredith School,"Nina Brevard
+Sector District",District,Network 2,Network 2,District 1,K-8,Catchment,High School,515,530.0,0.0,8.0,8.5,11.1,12.2,0.4,59.8,7.0,0.8,18.5,94.2,81.3,74.2,94.2,0.0,,,,,90.5,92.0,81.0,76.6,91.0,,https://cdn.philasd.org/offices/performance/SPREE_Files/2023-2024/Reports/%5B2380%5D_SP_SPREE_SPOTlight.pdf
+2390,2390,Robert Morris School,"Tameron Dancy
+Sector District",District,Network 4,Network 4,District 5,K-8,Catchment,High School,198,255.0,0.0,0.5,84.3,10.6,1.5,0.0,3.0,23.7,2.0,85.4,46.3,84.2,19.6,46.3,0.0,,,,,48.2,30.3,59.3,15.3,20.0,,https://cdn.philasd.org/offices/performance/SPREE_Files/2023-2024/Reports/%5B2390%5D_SP_SPREE_SPOTlight.pdf
+2410,2410,Girard Academic Music Program High School,"Joanne Beaver
+Sector District",District,Network 15,Network 15,District 2,5-12,Criteria,High School,577,,0.2,20.1,24.4,6.2,9.4,0.2,39.5,,2.1,41.8,91.1,87.1,72.7,91.1,0.0,100.0,4.0,4.0,73.2,,94.7,,69.2,90.4,,https://cdn.philasd.org/offices/performance/SPREE_Files/2023-2024/Reports/%5B2410%5D_SP_SPREE_SPOTlight.pdf
+2450,2450,Edwin M. Stanton School,"Stacey Burnley
+Sector District",District,Network 4,Network 4,District 2,K-8,Catchment,High School,278,298.0,1.4,2.2,65.8,7.6,5.0,0.7,17.3,27.3,1.4,71.9,71.1,81.5,45.6,71.1,0.0,,,,,57.9,49.7,39.5,22.6,45.0,,https://cdn.philasd.org/offices/performance/SPREE_Files/2023-2024/Reports/%5B2450%5D_SP_SPREE_SPOTlight.pdf
+2470,2470,Albert M. Greenfield School,"Daniel Lazar
+Sector District",District,Network 4,Network 4,District 2,K-8,Catchment,High School,730,758.0,0.0,12.3,11.8,11.8,10.8,0.0,53.3,13.8,6.4,17.1,91.6,88.6,65.3,91.6,0.0,,,,,87.6,85.4,78.7,74.7,92.4,,https://cdn.philasd.org/offices/performance/SPREE_Files/2023-2024/Reports/%5B2470%5D_SP_SPREE_SPOTlight.pdf
+2480,2480,Marian Anderson Neighborhood Academy,"Nicole Patterson
+Sector District",District,Network 4,Network 4,District 2,K-8,Catchment,High School,309,319.0,0.0,6.2,41.4,3.9,6.8,0.0,41.8,23.3,0.3,42.7,77.7,84.0,56.7,77.7,0.0,,,,,70.6,56.6,67.7,43.2,56.1,,https://cdn.philasd.org/offices/performance/SPREE_Files/2023-2024/Reports/%5B2480%5D_SP_SPREE_SPOTlight.pdf
+2490,2490,Laura W. Waring School,"Amanda Strain
+Sector District",District,Network 4,Network 4,District 5,K-8,Catchment,High School,212,268.0,0.9,5.7,69.3,8.0,0.9,0.5,14.6,26.4,17.9,74.5,42.9,95.0,19.4,42.9,1.0,,,,,38.1,30.7,,14.9,54.6,,https://cdn.philasd.org/offices/performance/SPREE_Files/2023-2024/Reports/%5B2490%5D_SP_SPREE_SPOTlight.pdf
+2510,2510,Fanny Jackson Coppin School,"Kelly Espinosa
+Sector District",District,Network 2,Network 2,District 1,K-8,Catchment,High School,517,533.0,0.0,6.8,12.8,27.5,9.7,0.0,43.3,13.0,19.3,45.3,88.6,88.2,68.5,88.6,0.0,,,,,74.1,61.0,68.5,54.0,63.0,,https://cdn.philasd.org/offices/performance/SPREE_Files/2023-2024/Reports/%5B2510%5D_SP_SPREE_SPOTlight.pdf
+2520,2520,Abram S. Jenks School,"Siouda Douglas
+Sector District",District,Network 2,Network 2,District 1,K-5,Catchment,High School,252,269.0,0.0,31.4,14.7,10.7,7.5,0.0,35.7,11.9,18.7,67.5,85.1,85.0,65.1,85.1,23.0,,,,,78.4,70.7,67.6,59.6,92.1,,https://cdn.philasd.org/offices/performance/SPREE_Files/2023-2024/Reports/%5B2520%5D_SP_SPREE_SPOTlight.pdf
+2540,2540,Francis S. Key School,"Pauline Cheung
+Sector District",District,Network 2,Network 2,District 1,K-6,Catchment,High School,389,436.0,0.0,26.0,8.0,60.9,0.8,0.5,3.9,12.3,71.0,75.3,70.9,80.0,43.4,70.9,23.0,,,,,32.4,30.9,37.8,28.1,46.2,,https://cdn.philasd.org/offices/performance/SPREE_Files/2023-2024/Reports/%5B2540%5D_SP_SPREE_SPOTlight.pdf
+2580,2580,Eliza B. Kirkbride School,"Rebecca Julien
+Sector District",District,Network 2,Network 2,District 1,K-8,Catchment,High School,476,518.0,0.0,23.1,4.8,53.2,4.4,0.0,14.5,17.0,48.5,73.3,86.3,81.6,61.4,86.3,0.0,,,,,42.9,41.1,34.7,29.8,55.3,,https://cdn.philasd.org/offices/performance/SPREE_Files/2023-2024/Reports/%5B2580%5D_SP_SPREE_SPOTlight.pdf
+2590,2590,George W. Nebinger School,"Ayana Townsend
+Sector District",District,Network 2,Network 2,District 1,K-8,Catchment,High School,388,408.0,0.5,6.7,36.6,24.2,4.4,0.0,27.6,28.6,19.1,62.9,79.9,77.8,53.4,79.9,0.0,,,,,47.2,49.6,41.7,41.6,63.7,,https://cdn.philasd.org/offices/performance/SPREE_Files/2023-2024/Reports/%5B2590%5D_SP_SPREE_SPOTlight.pdf
+2620,2620,Academy at Palumbo,"Kiana Thompson
+Sector District",District,Network 15,Network 15,District 2,9-12,Criteria,High School,1188,1191.0,0.3,36.1,24.9,17.3,5.1,0.0,16.3,4.7,8.7,70.3,87.2,91.9,63.4,87.2,1.0,95.7,76.2,75.3,94.7,,,,,,,https://cdn.philasd.org/offices/performance/SPREE_Files/2023-2024/Reports/%5B2620%5D_SP_SPREE_SPOTlight.pdf
+2630,2630,George W. Sharswood School,"Leigh McLinden
+Sector District",District,Network 2,Network 2,District 1,K-8,Catchment,High School,328,351.0,0.6,19.5,10.4,24.1,4.3,0.0,41.2,33.8,19.2,81.4,64.1,90.6,39.0,64.1,0.0,,,,,31.8,32.2,31.8,21.9,46.9,,https://cdn.philasd.org/offices/performance/SPREE_Files/2023-2024/Reports/%5B2630%5D_SP_SPREE_SPOTlight.pdf
+2640,2640,Southwark School,"Andrew Lukov
+Sector District",District,Network 2,Network 2,District 1,K-8,Catchment,High School,930,1017.0,0.2,19.0,5.9,58.0,2.4,0.0,14.5,11.1,50.4,69.3,82.6,90.8,54.1,82.6,0.0,,,,,29.6,31.4,33.7,20.2,37.1,,https://cdn.philasd.org/offices/performance/SPREE_Files/2023-2024/Reports/%5B2640%5D_SP_SPREE_SPOTlight.pdf
+2650,2650,Science Leadership Academy High School,"Christopher Lehmann
+Sector District",District,Network 15,Network 15,District 5,9-12,Criteria,High School,500,503.0,0.0,10.6,28.2,16.4,8.4,0.2,36.2,10.2,3.2,42.2,86.5,93.1,54.7,86.5,0.0,100.0,81.0,74.4,95.0,,,,,,57.5,https://cdn.philasd.org/offices/performance/SPREE_Files/2023-2024/Reports/%5B2650%5D_SP_SPREE_SPOTlight.pdf
+2670,2670,Constitution High School,"Brianna Dunn
+Sector District",District,Network 12,Network 12,District 1,9-12,Citywide,High School,401,413.0,0.3,5.5,63.8,19.7,5.7,0.0,5.0,13.0,8.0,82.3,58.4,75.0,28.3,58.4,3.0,98.0,32.0,35.1,65.6,,,,,,,https://cdn.philasd.org/offices/performance/SPREE_Files/2023-2024/Reports/%5B2670%5D_SP_SPREE_SPOTlight.pdf
+2680,2680,The Science Leadership Academy at Beeber High School,"Christopher Johnson
+Sector District",District,Network 15,Network 15,District 4,5-12,Criteria,High School,557,,0.4,4.3,76.1,4.3,4.9,0.0,10.1,,7.5,58.4,83.1,87.2,55.2,83.1,3.0,95.7,24.2,50.5,73.7,,71.1,,43.4,63.2,38.7,https://cdn.philasd.org/offices/performance/SPREE_Files/2023-2024/Reports/%5B2680%5D_SP_SPREE_SPOTlight.pdf
+2690,2690,John H. Taggart School,"Stephanie McKenna
+Sector District",District,Network 2,Network 2,District 1,K-8,Catchment,High School,485,548.0,0.0,43.9,8.7,36.5,4.7,0.0,6.2,15.5,46.8,80.4,72.6,94.4,44.2,72.6,0.0,,,,,17.1,34.5,24.4,26.5,41.1,,https://cdn.philasd.org/offices/performance/SPREE_Files/2023-2024/Reports/%5B2690%5D_SP_SPREE_SPOTlight.pdf
+2720,2720,Vare-Washington School,"Alison Barnes
+Sector District",District,Network 2,Network 2,District 1,K-8,Catchment,High School,310,349.0,0.3,10.7,20.3,39.7,6.1,0.0,22.9,30.0,29.7,67.1,72.5,90.9,46.7,72.5,0.0,,,,,,48.4,,26.8,45.8,,https://cdn.philasd.org/offices/performance/SPREE_Files/2023-2024/Reports/%5B2720%5D_SP_SPREE_SPOTlight.pdf
+3301,3301,Community Academy of Philadelphia Charter School,,Charter,Charters,Charters,District 7,K-12,Citywide,High School,1239,,0.0,1.8,11.1,81.4,4.0,0.1,1.7,,23.2,97.3,72.1,,42.9,72.1,7.0,92.8,18.2,23.2,42.7,26.4,28.9,22.1,12.1,44.6,,https://cdn.philasd.org/offices/performance/SPREE_Files/2023-2024/Reports/%5B3301%5D_SP_SPREE_SPOTlight.pdf
+3302,3302,Harambee Institute of Science and Technology Charter School,"Gregory Shannon
+Sector Charter",Charter,Charters,Charters,District 4,K-8,Citywide,High School,544,553.0,0.0,0.0,97.8,0.4,1.1,0.0,0.7,16.4,0.0,81.8,61.1,,27.3,61.1,0.0,,,,,43.1,40.8,51.7,32.5,53.4,,https://cdn.philasd.org/offices/performance/SPREE_Files/2023-2024/Reports/%5B3302%5D_SP_SPREE_SPOTlight.pdf
+3306,3306,Christopher Columbus Charter School,"Charles Moore
+Sector Charter",Charter,Charters,Charters,District 1,K-8,Citywide,High School,833,844.0,0.2,14.9,17.5,9.6,11.0,0.0,46.7,21.3,10.7,29.5,73.7,,46.7,73.7,0.0,,,,,59.3,63.8,45.7,38.8,73.9,,https://cdn.philasd.org/offices/performance/SPREE_Files/2023-2024/Reports/%5B3306%5D_SP_SPREE_SPOTlight.pdf
+3307,3307,Eugenio Maria De Hostos Charter School,"Glenda Marrero
+Sector Charter",Charter,Charters,Charters,District 9,K-8,Citywide,High School,485,514.0,0.0,1.2,6.0,87.6,4.1,0.0,1.0,38.6,10.9,87.0,84.6,,54.5,84.6,1.0,,,,,28.4,39.9,22.5,30.0,69.2,,https://cdn.philasd.org/offices/performance/SPREE_Files/2023-2024/Reports/%5B3307%5D_SP_SPREE_SPOTlight.pdf
+3308,3308,Inquiry Charter School,"Jennifer Faustman
+Sector Charter",Charter,Charters,Charters,District 3,K-5,Citywide,High School,268,275.0,0.0,0.4,85.1,1.1,9.3,1.1,3.0,22.0,0.4,76.1,78.6,,48.4,78.6,23.0,,,,,46.5,30.8,46.5,30.8,52.4,,https://cdn.philasd.org/offices/performance/SPREE_Files/2023-2024/Reports/%5B3308%5D_SP_SPREE_SPOTlight.pdf
+3309,3309,Imhotep Institute Charter High School,"Andre Noble
+Sector Charter",Charter,Charters,Charters,District 8,9-12,Citywide,High School,615,667.0,0.2,0.2,96.8,1.1,1.5,0.2,0.2,20.3,0.0,81.3,64.2,,39.9,64.2,7.0,95.1,2.3,1.5,21.6,,,,,,,https://cdn.philasd.org/offices/performance/SPREE_Files/2023-2024/Reports/%5B3309%5D_SP_SPREE_SPOTlight.pdf
+3310,3310,Laboratory Charter School of Communication and Languages,,Charter,Charters,Charters,District 5,K-8,Citywide,High School,358,388.0,0.6,0.0,92.7,2.8,3.4,0.0,0.6,20.7,0.8,100.0,,,51.3,74.5,,,,,,,,,,,,https://cdn.philasd.org/offices/performance/SPREE_Files/2023-2024/Reports/%5B3310%5D_SP_SPREE_SPOTlight.pdf
+3312,3312,Multicultural Academy Charter School,"Jim Higgins
+Sector Charter",Charter,Charters,Charters,District 5,9-12,Citywide,High School,244,247.0,0.4,1.2,85.7,8.2,3.7,0.0,0.8,24.6,4.1,74.2,64.0,,33.6,64.0,0.0,95.1,38.8,30.6,55.1,,,,,,,https://cdn.philasd.org/offices/performance/SPREE_Files/2023-2024/Reports/%5B3312%5D_SP_SPREE_SPOTlight.pdf
+3313,3313,"Preparatory Charter School of Mathematics, Science, Technology and Careers","David Wright
+Sector Charter",Charter,Charters,Charters,District 2,9-12,Citywide,High School,546,576.0,0.9,10.8,65.4,9.5,6.0,0.0,7.3,17.2,10.3,78.0,56.6,,22.9,56.6,0.0,95.6,19.0,28.4,53.5,,,,,,,https://cdn.philasd.org/offices/performance/SPREE_Files/2023-2024/Reports/%5B3313%5D_SP_SPREE_SPOTlight.pdf
+3314,3314,West Oak Lane Charter School,,Charter,Charters,Charters,District 9,K-8,Citywide,High School,983,1016.0,0.3,0.3,97.4,0.6,1.0,0.1,0.3,21.5,0.4,83.7,,,44.1,71.7,,,,,,,,,,,,https://cdn.philasd.org/offices/performance/SPREE_Files/2023-2024/Reports/%5B3314%5D_SP_SPREE_SPOTlight.pdf
+3315,3315,Alliance For Progress Charter School,"Stacey Scott
+Sector Charter",Charter,Charters,Charters,District 5,K-8,Citywide,High School,636,685.0,0.0,0.2,95.0,2.5,1.9,0.2,0.3,18.2,0.2,81.9,58.1,,27.9,58.1,22.0,,,,,10.0,10.9,4.3,3.7,32.5,,https://cdn.philasd.org/offices/performance/SPREE_Files/2023-2024/Reports/%5B3315%5D_SP_SPREE_SPOTlight.pdf
+3318,3318,Freire Charter School,"Christopher Moore
+Sector Charter",Charter,Charters,Charters,District 5,5-12,Citywide,High School,952,,0.4,0.1,90.0,4.2,4.4,0.0,0.8,,2.0,80.2,62.8,,35.0,62.8,5.0,94.8,29.1,25.6,51.2,,36.8,,5.5,28.0,,https://cdn.philasd.org/offices/performance/SPREE_Files/2023-2024/Reports/%5B3318%5D_SP_SPREE_SPOTlight.pdf
+3322,3322,Philadelphia Academy Charter School,"Megan Simmons
+Sector Charter",Charter,Charters,Charters,District 10,K-12,Citywide,High School,1123,,0.2,9.3,11.5,14.4,4.9,0.3,59.5,,7.0,59.0,83.5,,52.1,83.5,1.0,84.6,47.5,49.0,59.0,61.1,57.6,69.4,50.2,74.6,,https://cdn.philasd.org/offices/performance/SPREE_Files/2023-2024/Reports/%5B3322%5D_SP_SPREE_SPOTlight.pdf
+3323,3323,Mastery Charter School at Hardy Williams,"Justin Meltzer
+Sector Charter",Charter,Charters,Charters,District 3,K-12,Citywide,High School,1182,,0.6,0.1,96.2,2.3,0.7,0.1,0.1,,3.6,97.6,74.4,,45.9,74.4,29.0,87.8,13.8,24.4,48.8,24.6,31.8,20.6,19.1,39.9,,https://cdn.philasd.org/offices/performance/SPREE_Files/2023-2024/Reports/%5B3323%5D_SP_SPREE_SPOTlight.pdf
+3326,3326,Universal Institute Charter School,Penny Nixon,Charter,Charters,Charters,District 2,K-8,Citywide,High School,565,590.0,0.0,0.7,91.3,5.8,1.4,0.0,0.7,22.0,6.9,100.0,,,34.1,64.8,,,,,,,,,,,,https://cdn.philasd.org/offices/performance/SPREE_Files/2023-2024/Reports/%5B3326%5D_SP_SPREE_SPOTlight.pdf
+3328,3328,"Mathematics, Science, and Technology Community Charter School (MaST)","John Swoyer
+Sector Charter",Charter,Charters,Charters,District 10,K-12,Citywide,High School,1494,,0.1,12.5,12.9,14.7,4.0,0.1,55.7,,4.0,50.1,87.8,,54.4,87.8,0.0,99.0,61.5,58.3,81.7,71.2,66.5,78.4,50.6,67.1,,https://cdn.philasd.org/offices/performance/SPREE_Files/2023-2024/Reports/%5B3328%5D_SP_SPREE_SPOTlight.pdf
+3329,3329,Young Scholars Charter School,"Beth Birnkrant
+Sector Charter",Charter,Charters,Charters,District 5,6-8,Citywide,High School,255,266.0,0.8,1.2,88.6,4.3,2.8,0.0,2.4,31.0,0.8,87.1,72.9,,38.7,72.9,1.0,,,,,,20.2,,1.8,17.7,,https://cdn.philasd.org/offices/performance/SPREE_Files/2023-2024/Reports/%5B3329%5D_SP_SPREE_SPOTlight.pdf
+3331,3331,Franklin Towne Charter High School,,Charter,Charters,Charters,District 6,9-12,Citywide,High School,1314,1323.0,0.1,1.4,12.9,30.4,2.2,0.2,52.9,16.4,0.9,68.9,76.1,,38.9,76.1,8.0,99.0,54.0,52.8,83.9,,,,,,,https://cdn.philasd.org/offices/performance/SPREE_Files/2023-2024/Reports/%5B3331%5D_SP_SPREE_SPOTlight.pdf
+3332,3332,Mariana Bracetti Academy Charter School,"L Angela Villani
+Sector Charter",Charter,Charters,Charters,District 6,K-12,Citywide,High School,1501,,0.5,0.5,21.1,64.9,8.5,0.4,4.1,,12.2,99.8,68.7,,31.7,68.7,3.0,95.5,45.3,17.7,69.5,31.6,30.3,19.0,16.8,58.1,,https://cdn.philasd.org/offices/performance/SPREE_Files/2023-2024/Reports/%5B3332%5D_SP_SPREE_SPOTlight.pdf
+3333,3333,Esperanza Academy Charter School,"Jeana Davis and Jorge Calixto
+Sector Charter",Charter,Charters,Charters,District 7,K-12,Citywide,High School,1646,,0.0,0.3,5.3,90.6,3.3,0.1,0.5,,23.9,90.3,68.4,,39.0,68.4,10.0,91.8,29.4,22.9,50.7,,18.8,,4.8,20.3,,https://cdn.philasd.org/offices/performance/SPREE_Files/2023-2024/Reports/%5B3333%5D_SP_SPREE_SPOTlight.pdf
+3334,3334,New Foundations Charter School,"Fran Daly and Erin Herschberger
+Sector Charter",Charter,Charters,Charters,District 6,K-12,Citywide,High School,1506,,0.1,5.8,26.0,25.1,7.2,0.3,35.5,,4.3,75.2,77.0,,44.1,77.0,4.0,93.9,27.1,35.4,70.1,59.5,57.3,51.3,43.8,69.7,,https://cdn.philasd.org/offices/performance/SPREE_Files/2023-2024/Reports/%5B3334%5D_SP_SPREE_SPOTlight.pdf
+3335,3335,People for People Charter School,"Anthony Fratanduono
+Sector Charter",Charter,Charters,Charters,District 5,K-8,Citywide,High School,546,599.0,0.6,0.2,94.9,2.6,0.9,0.0,0.9,28.0,0.0,99.8,48.1,,25.2,48.1,1.0,,,,,25.6,12.2,19.5,4.1,29.0,,https://cdn.philasd.org/offices/performance/SPREE_Files/2023-2024/Reports/%5B3335%5D_SP_SPREE_SPOTlight.pdf
+3336,3336,Philadelphia Performing Arts Charter School,"Angela Puleio
+Sector Charter",Charter,Charters,Charters,District 2,K-12,Citywide,High School,2637,,0.2,15.1,33.5,12.6,8.0,0.0,30.7,,10.3,71.7,90.1,,76.6,90.1,0.0,99.3,30.6,43.9,52.1,61.9,55.5,53.9,35.4,61.2,,https://cdn.philasd.org/offices/performance/SPREE_Files/2023-2024/Reports/%5B3336%5D_SP_SPREE_SPOTlight.pdf
+3337,3337,Global Leadership Academy Charter School,"Naomi Booker
+Sector Charter",Charter,Charters,Charters,District 4,K-8,Citywide,High School,664,688.0,0.2,0.0,97.1,0.9,1.7,0.0,0.2,17.8,0.0,99.6,61.5,,34.3,61.5,2.0,,,,,15.0,20.6,10.0,6.4,32.6,,https://cdn.philasd.org/offices/performance/SPREE_Files/2023-2024/Reports/%5B3337%5D_SP_SPREE_SPOTlight.pdf
+3341,3341,Independence Charter School,"Kristen Long
+Sector Charter",Charter,Charters,Charters,District 2,K-8,Citywide,High School,800,802.0,0.1,3.5,46.9,17.9,3.0,0.1,28.5,26.1,6.6,57.6,82.2,,51.4,82.2,0.0,,,,,60.0,47.0,51.7,39.6,61.6,,https://cdn.philasd.org/offices/performance/SPREE_Files/2023-2024/Reports/%5B3341%5D_SP_SPREE_SPOTlight.pdf
+3353,3353,KIPP DuBois Charter School,Courtney Moragne,Charter,Charters,Charters,District 4,9-12,Citywide,High School,516,563.0,0.0,0.0,96.7,0.8,2.3,0.0,0.2,28.3,0.2,83.3,,,14.7,38.9,,,31.7,23.2,38.0,,,,,,,https://cdn.philasd.org/offices/performance/SPREE_Files/2023-2024/Reports/%5B3353%5D_SP_SPREE_SPOTlight.pdf
+3358,3358,Philadelphia Electrical and Technology Charter High School,"Erin Dougherty
+Sector Charter",Charter,Charters,Charters,District 5,9-12,Citywide,High School,626,699.0,0.0,0.5,85.1,5.4,5.1,0.2,3.7,22.4,2.2,86.4,47.1,,19.6,47.1,11.0,92.6,7.8,17.1,41.9,,,,,,,https://cdn.philasd.org/offices/performance/SPREE_Files/2023-2024/Reports/%5B3358%5D_SP_SPREE_SPOTlight.pdf
+3359,3359,Richard Allen Preparatory Charter School,"Lawrence Jones
+Sector Charter",Charter,Charters,Charters,District 3,5-8,Citywide,High School,351,384.0,0.0,3.4,89.2,2.9,3.4,0.0,1.1,25.4,7.1,100.0,66.2,,50.0,66.2,3.0,,,,,,25.7,,5.4,21.4,,https://cdn.philasd.org/offices/performance/SPREE_Files/2023-2024/Reports/%5B3359%5D_SP_SPREE_SPOTlight.pdf
+3360,3360,Russell Byers Charter School,"Corey Turkish
+Sector Charter",Charter,Charters,Charters,District 5,K-8,Citywide,High School,671,687.0,0.2,0.5,94.5,2.2,1.0,0.0,1.6,23.4,0.8,100.0,67.1,,33.2,67.1,0.0,,,,,31.9,26.7,16.9,7.9,35.5,,https://cdn.philasd.org/offices/performance/SPREE_Files/2023-2024/Reports/%5B3360%5D_SP_SPREE_SPOTlight.pdf
+3361,3361,Mastery Charter High School,Joel Boyd,Charter,Charters,Charters,District 1,7-12,Citywide,High School,634,,0.2,0.3,75.6,19.4,3.6,0.2,0.8,,3.5,93.2,,,46.1,70.9,,,35.3,43.3,56.5,,,,,,,https://cdn.philasd.org/offices/performance/SPREE_Files/2023-2024/Reports/%5B3361%5D_SP_SPREE_SPOTlight.pdf
+3362,3362,Wissahickon Charter School,"Kristi Littell
+Sector Charter",Charter,Charters,Charters,District 4,K-8,Citywide,High School,945,984.0,0.0,0.0,93.9,1.0,4.0,0.1,1.1,26.4,0.0,79.2,80.7,,44.5,80.7,1.0,,,,,29.6,40.2,22.2,13.4,42.4,,https://cdn.philasd.org/offices/performance/SPREE_Files/2023-2024/Reports/%5B3362%5D_SP_SPREE_SPOTlight.pdf
+3364,3364,First Philadelphia Preparatory Charter School,Erina Pearlstein,Charter,Charters,Charters,District 7,K-12,Citywide,High School,1851,,0.2,1.2,47.3,33.8,10.9,0.1,6.5,,6.5,88.7,,,33.1,63.7,,,25.7,21.9,31.3,,,,,,,https://cdn.philasd.org/offices/performance/SPREE_Files/2023-2024/Reports/%5B3364%5D_SP_SPREE_SPOTlight.pdf
+3365,3365,Green Woods Charter School,"Debi Durso
+Sector Charter",Charter,Charters,Charters,District 4,K-8,Citywide,High School,705,712.0,0.1,2.8,26.1,4.4,5.4,0.0,61.1,20.1,0.1,36.5,90.5,,61.5,90.5,22.0,,,,,70.7,69.8,61.0,47.8,75.0,,https://cdn.philasd.org/offices/performance/SPREE_Files/2023-2024/Reports/%5B3365%5D_SP_SPREE_SPOTlight.pdf
+3366,3366,Maritime Academy Charter School,"Matthew Wilson
+Sector Charter",Charter,Charters,Charters,District 6,K-12,Citywide,High School,827,,0.1,4.0,14.9,35.7,11.3,0.1,34.0,,10.3,94.9,63.1,,33.1,63.1,6.0,88.5,24.1,15.5,36.2,33.3,27.7,28.1,15.5,48.0,,https://cdn.philasd.org/offices/performance/SPREE_Files/2023-2024/Reports/%5B3366%5D_SP_SPREE_SPOTlight.pdf
+3368,3368,Belmont Elementary Charter School,,Charter,Charters,Charters,District 3,K-12,Catchment,High School,938,,0.1,0.3,94.2,2.1,2.8,0.0,0.4,,1.3,94.6,,,19.3,45.8,,,3.2,4.9,23.8,,,,,,,https://cdn.philasd.org/offices/performance/SPREE_Files/2023-2024/Reports/%5B3368%5D_SP_SPREE_SPOTlight.pdf
+3370,3370,KIPP Philadelphia Charter School,Stephanie White,Charter,Charters,Charters,District 5,K-8,Citywide,High School,864,881.0,0.2,0.1,91.0,3.7,4.6,0.0,0.4,30.2,0.4,87.4,,,33.7,64.4,,,,,,,,,,,,https://cdn.philasd.org/offices/performance/SPREE_Files/2023-2024/Reports/%5B3370%5D_SP_SPREE_SPOTlight.pdf
+3372,3372,The Jacquelyn Y. Kelley Discovery Charter School,"Rene Garner
+Sector Charter",Charter,Charters,Charters,District 4,K-8,Citywide,High School,610,636.0,0.0,0.8,93.8,1.3,3.8,0.0,0.3,13.8,0.5,85.9,77.0,,52.7,77.0,1.0,,,,,32.8,34.9,25.0,10.1,33.1,,https://cdn.philasd.org/offices/performance/SPREE_Files/2023-2024/Reports/%5B3372%5D_SP_SPREE_SPOTlight.pdf
+3378,3378,Philadelphia Montessori Charter School,"Joseph Sbarra
+Sector Charter",Charter,Charters,Charters,District 2,K-4,Citywide,High School,261,277.0,0.4,0.0,92.0,3.5,3.1,0.0,1.2,27.2,6.9,92.7,54.9,,24.6,54.9,23.0,,,,,21.4,15.9,9.5,6.8,52.2,,https://cdn.philasd.org/offices/performance/SPREE_Files/2023-2024/Reports/%5B3378%5D_SP_SPREE_SPOTlight.pdf
+3379,3379,Ad Prima Charter School,"Niya Blackwell
+Sector Charter",Charter,Charters,Charters,District 4,K-8,Citywide,High School,583,607.0,0.2,0.9,92.6,1.9,3.8,0.0,0.7,22.1,1.9,100.0,79.2,,49.6,79.2,5.0,,,,,27.7,36.8,20.0,20.3,43.9,,https://cdn.philasd.org/offices/performance/SPREE_Files/2023-2024/Reports/%5B3379%5D_SP_SPREE_SPOTlight.pdf
+3383,3383,Mastery Charter School at Shoemaker,Derrick Cartwright,Charter,Charters,Charters,District 4,7-12,Citywide,High School,750,,6.5,0.3,87.6,2.8,2.0,0.1,0.7,,2.3,94.3,,,40.6,67.7,,,23.2,12.1,37.4,,,,,,,https://cdn.philasd.org/offices/performance/SPREE_Files/2023-2024/Reports/%5B3383%5D_SP_SPREE_SPOTlight.pdf
+3384,3384,Folk Arts-Cultural Treasures Charter School,"Ellen Somekawa
+Sector Charter",Charter,Charters,Charters,District 1,K-8,Citywide,High School,495,510.0,0.2,67.7,8.7,6.9,6.7,0.0,9.9,20.6,38.2,50.3,88.8,,72.4,88.8,0.0,,,,,43.4,63.3,72.2,55.0,67.0,,https://cdn.philasd.org/offices/performance/SPREE_Files/2023-2024/Reports/%5B3384%5D_SP_SPREE_SPOTlight.pdf
+3385,3385,Mastery Charter School at Thomas Campus,Peter Langer and Owen Riccardi,Charter,Charters,Charters,District 1,K-12,Citywide,High School,1357,,2.6,17.2,29.0,37.7,4.5,0.0,9.1,,24.4,90.7,,,55.9,81.1,,,49.0,53.4,70.3,,,,,,,https://cdn.philasd.org/offices/performance/SPREE_Files/2023-2024/Reports/%5B3385%5D_SP_SPREE_SPOTlight.pdf
+3386,3386,Northwood Academy Charter School,"Diana Abellard
+Sector Charter",Charter,Charters,Charters,District 7,K-8,Citywide,High School,672,709.0,0.2,3.0,64.9,21.4,6.7,0.0,3.9,18.9,6.6,97.0,75.0,,43.2,75.0,1.0,,,,,27.3,30.7,18.8,11.0,44.1,,https://cdn.philasd.org/offices/performance/SPREE_Files/2023-2024/Reports/%5B3386%5D_SP_SPREE_SPOTlight.pdf
+3388,3388,Boys' Latin of Philadelphia Charter School,"Robert Parker and Michael Sanford
+Sector Charter",Charter,Charters,Charters,District 3,6-12,Citywide,High School,774,,0.0,0.0,93.3,1.4,5.2,0.0,0.1,,0.0,73.9,60.8,,28.9,60.8,0.0,87.8,14.1,18.6,34.9,,22.1,,5.9,23.3,,https://cdn.philasd.org/offices/performance/SPREE_Files/2023-2024/Reports/%5B3388%5D_SP_SPREE_SPOTlight.pdf
+3389,3389,Keystone Academy Charter School,"Claudia Lyles
+Sector Charter",Charter,Charters,Charters,District 6,K-8,Citywide,High School,664,666.0,0.0,7.5,37.4,29.8,8.6,0.0,16.7,28.3,10.2,84.2,81.1,,50.3,81.1,3.0,,,,,48.6,47.4,33.3,24.7,68.2,,https://cdn.philasd.org/offices/performance/SPREE_Files/2023-2024/Reports/%5B3389%5D_SP_SPREE_SPOTlight.pdf
+3392,3392,Southwest Leadership Academy Charter School,Leigh Purnell,Charter,Charters,Charters,District 2,K-8,Citywide,High School,579,627.0,0.0,1.4,88.6,7.9,1.9,0.0,0.2,17.6,7.3,61.3,,,40.2,64.4,,,,,,,,,,,,https://cdn.philasd.org/offices/performance/SPREE_Files/2023-2024/Reports/%5B3392%5D_SP_SPREE_SPOTlight.pdf
+3393,3393,Mastery Charter School at Pickett,Joel Boyd,Charter,Charters,Charters,District 8,6-12,Citywide,High School,914,,0.6,0.0,92.2,4.3,2.6,0.0,0.3,,0.1,95.3,,,43.3,72.3,,,22.6,39.1,61.4,,,,,,,https://cdn.philasd.org/offices/performance/SPREE_Files/2023-2024/Reports/%5B3393%5D_SP_SPREE_SPOTlight.pdf
+3394,3394,Pan American Academy Charter School,"Mercedes Mason
+Sector Charter",Charter,Charters,Charters,District 7,K-8,Citywide,High School,762,774.0,0.0,0.0,6.7,84.4,8.5,0.0,0.4,26.0,21.8,92.1,62.3,,30.0,62.3,0.0,,,,,22.6,20.8,11.8,7.2,26.1,,https://cdn.philasd.org/offices/performance/SPREE_Files/2023-2024/Reports/%5B3394%5D_SP_SPREE_SPOTlight.pdf
+3395,3395,Antonia Pantoja Charter School,"Sandra Gonzalez
+Sector Charter",Charter,Charters,Charters,District 7,K-8,Citywide,High School,710,714.0,0.0,0.3,2.1,94.1,3.0,0.0,0.6,33.5,10.1,75.1,79.3,,51.7,79.3,22.0,,,,,35.7,34.1,14.3,14.0,56.8,,https://cdn.philasd.org/offices/performance/SPREE_Files/2023-2024/Reports/%5B3395%5D_SP_SPREE_SPOTlight.pdf
+3399,3399,Sankofa Freedom Academy Charter School,"Tameka Bowman
+Sector Charter",Charter,Charters,Charters,District 1,K-12,Citywide,High School,664,,0.8,0.0,91.7,4.4,2.4,0.2,0.6,,0.8,86.5,67.9,,40.0,67.9,6.0,91.9,19.1,16.7,52.4,37.7,34.1,30.2,17.3,41.8,,https://cdn.philasd.org/offices/performance/SPREE_Files/2023-2024/Reports/%5B3399%5D_SP_SPREE_SPOTlight.pdf
+3403,3403,Franklin Towne Charter Elementary School,"James Rodgers
+Sector Charter",Charter,Charters,Charters,District 6,K-8,Citywide,High School,956,972.0,0.1,2.7,6.7,12.2,5.9,0.0,72.4,20.0,3.1,66.7,87.4,,50.1,87.4,0.0,,,,,58.1,50.7,44.8,29.9,63.0,,https://cdn.philasd.org/offices/performance/SPREE_Files/2023-2024/Reports/%5B3403%5D_SP_SPREE_SPOTlight.pdf
+3404,3404,Tacony Academy Charter School,,Charter,Charters,Charters,District 10,K-12,Citywide,High School,1072,,0.2,7.0,36.3,23.0,11.7,0.1,21.7,,5.5,74.5,,,37.1,67.5,,,36.4,29.3,43.0,,,,,,,https://cdn.philasd.org/offices/performance/SPREE_Files/2023-2024/Reports/%5B3404%5D_SP_SPREE_SPOTlight.pdf
+3407,3407,Mastery Charter School at Harrity,Ayo Akinmoladun,Charter,Charters,Charters,District 3,K-8,Catchment,High School,783,834.0,0.5,0.5,92.5,2.9,2.9,0.1,0.5,21.0,1.7,100.0,,,39.6,72.9,,,,,,,,,,,,https://cdn.philasd.org/offices/performance/SPREE_Files/2023-2024/Reports/%5B3407%5D_SP_SPREE_SPOTlight.pdf
+3408,3408,Mastery Charter School at Mann,Joel Boyd,Charter,Charters,Charters,District 4,K-6,Catchment,High School,557,585.0,0.7,0.4,86.9,5.8,4.5,0.2,1.6,23.7,3.8,91.7,,,43.6,74.5,,,,,,,,,,,,https://cdn.philasd.org/offices/performance/SPREE_Files/2023-2024/Reports/%5B3408%5D_SP_SPREE_SPOTlight.pdf
+3409,3409,Mastery Charter School at Smedley,Joel Boyd,Charter,Charters,Charters,District 7,K-6,Catchment,High School,782,797.0,0.4,0.3,61.1,31.1,4.1,0.3,2.8,28.3,5.9,98.3,,,41.8,72.3,,,,,,,,,,,,https://cdn.philasd.org/offices/performance/SPREE_Files/2023-2024/Reports/%5B3409%5D_SP_SPREE_SPOTlight.pdf
+3412,3412,Mastery Charter School at Douglass,Monique Dolcy,Charter,Charters,Charters,District 5,K-8,Catchment,High School,552,611.0,0.2,0.4,91.3,4.4,2.9,0.0,0.9,24.5,1.3,98.2,,,41.1,72.8,,,,,,,,,,,,https://cdn.philasd.org/offices/performance/SPREE_Files/2023-2024/Reports/%5B3412%5D_SP_SPREE_SPOTlight.pdf
+3415,3415,Mastery Charter School at Clymer,Joel Boyd,Charter,Charters,Charters,District 5,K-6,Catchment,High School,453,466.0,1.6,0.0,81.0,14.4,2.2,0.0,0.9,28.7,1.8,84.8,,,37.6,72.8,,,,,,,,,,,,https://cdn.philasd.org/offices/performance/SPREE_Files/2023-2024/Reports/%5B3415%5D_SP_SPREE_SPOTlight.pdf
+3416,3416,Mastery Charter School at Gratz,Erik Zipay and Kate McNulty,Charter,Charters,Charters,District 8,7-12,Catchment,High School,1043,,0.6,0.5,85.8,10.3,2.4,0.0,0.5,,2.6,95.1,,,38.5,72.6,,,18.8,14.0,33.7,,,,,,,https://cdn.philasd.org/offices/performance/SPREE_Files/2023-2024/Reports/%5B3416%5D_SP_SPREE_SPOTlight.pdf
+3417,3417,Universal Charter School at Audenried,Penny Nixon,Charter,Charters,Charters,District 2,9-12,Catchment,High School,580,612.0,0.0,3.1,88.5,4.0,2.8,0.0,1.7,24.1,7.9,100.0,,,47.9,70.9,,,16.0,19.3,45.7,,,,,,,https://cdn.philasd.org/offices/performance/SPREE_Files/2023-2024/Reports/%5B3417%5D_SP_SPREE_SPOTlight.pdf
+3418,3418,Universal Charter School at Vare,Penny Nixon,Charter,Charters,Charters,District 2,5-8,Catchment,High School,150,158.0,0.0,16.0,70.0,7.3,6.0,0.0,0.7,16.7,8.0,100.0,,,99.4,100.0,,,,,,,,,,,,https://cdn.philasd.org/offices/performance/SPREE_Files/2023-2024/Reports/%5B3418%5D_SP_SPREE_SPOTlight.pdf
+3419,3419,General David B. Birney Charter School,Margery Covello,Charter,Charters,Charters,District 8,K-8,Catchment,High School,724,752.0,0.1,0.6,82.3,6.8,9.1,0.1,1.0,23.8,5.3,94.9,,,32.7,63.0,,,,,,,,,,,,https://cdn.philasd.org/offices/performance/SPREE_Files/2023-2024/Reports/%5B3419%5D_SP_SPREE_SPOTlight.pdf
+3420,3420,Mastery Charter School at Cleveland,Max Tartar,Charter,Charters,Charters,District 8,K-8,Catchment,High School,751,784.0,0.7,0.0,87.0,6.7,5.2,0.0,0.5,22.2,2.4,96.3,,,53.4,80.1,,,,,,,,,,,,https://cdn.philasd.org/offices/performance/SPREE_Files/2023-2024/Reports/%5B3420%5D_SP_SPREE_SPOTlight.pdf
+3421,3421,Universal Charter School at Creighton,Penny Nixon,Charter,Charters,Charters,District 9,K-8,Catchment,High School,674,692.0,0.0,9.2,25.1,63.5,1.3,0.0,0.9,27.7,27.0,100.0,,,47.1,76.9,,,,,,,,,,,,https://cdn.philasd.org/offices/performance/SPREE_Files/2023-2024/Reports/%5B3421%5D_SP_SPREE_SPOTlight.pdf
+3422,3422,The Philadelphia Charter School for Arts and Sciences,Judith Taggart,Charter,Charters,Charters,District 7,K-8,Catchment,High School,921,994.0,0.1,0.5,46.4,42.0,8.9,0.3,1.7,35.8,11.8,93.3,,,53.3,73.5,,,,,,,,,,,,https://cdn.philasd.org/offices/performance/SPREE_Files/2023-2024/Reports/%5B3422%5D_SP_SPREE_SPOTlight.pdf
+3424,3424,Universal Charter School at Alcorn,Penny Nixon,Charter,Charters,Charters,District 2,K-8,Catchment,High School,412,457.0,0.5,3.2,85.7,5.8,2.7,0.0,2.2,23.8,5.6,100.0,,,37.6,67.6,,,,,,,,,,,,https://cdn.philasd.org/offices/performance/SPREE_Files/2023-2024/Reports/%5B3424%5D_SP_SPREE_SPOTlight.pdf
+3426,3426,Mastery Charter School at Pastorius,Ashley Anderson,Charter,Charters,Charters,District 8,K-8,Catchment,High School,647,686.0,1.2,0.0,86.7,7.1,3.9,0.5,0.6,27.4,0.5,96.1,,,40.5,70.4,,,,,,,,,,,,https://cdn.philasd.org/offices/performance/SPREE_Files/2023-2024/Reports/%5B3426%5D_SP_SPREE_SPOTlight.pdf
+3427,3427,Mastery Charter School at Wister,Joel Boyd,Charter,Charters,Charters,District 8,K-5,Catchment,High School,496,568.0,0.2,0.0,91.5,5.0,2.8,0.0,0.4,25.8,0.4,99.8,,,38.0,71.0,,,,,,,,,,,,https://cdn.philasd.org/offices/performance/SPREE_Files/2023-2024/Reports/%5B3427%5D_SP_SPREE_SPOTlight.pdf
+3428,3428,Global Leadership Academy Charter School Southwest at Huey,"Tamika Evans
+Sector Charter",Charter,Charters,Charters,District 3,K-8,Catchment,High School,599,620.0,0.0,0.2,94.3,2.7,2.7,0.0,0.2,20.4,0.8,100.0,51.9,,27.7,51.9,0.0,,,,,8.7,17.8,10.9,5.2,32.8,,https://cdn.philasd.org/offices/performance/SPREE_Files/2023-2024/Reports/%5B3428%5D_SP_SPREE_SPOTlight.pdf
+3436,3436,KIPP Octavius Catto Charter School,,Charter,Charters,Charters,District 3,K-2,Citywide,High School,301,314.0,0.0,1.7,86.4,5.3,4.7,0.0,2.0,14.3,0.0,87.4,,,22.6,55.7,,,,,,,,,,,,https://cdn.philasd.org/offices/performance/SPREE_Files/2023-2024/Reports/%5B3436%5D_SP_SPREE_SPOTlight.pdf
+3437,3437,KIPP North Philadelphia Charter School,Susanna Tagoe,Charter,Charters,Charters,District 5,K-6,Citywide,High School,671,713.0,0.2,0.2,92.7,2.5,4.3,0.0,0.2,27.4,0.3,91.7,,,18.2,45.6,,,,,,,,,,,,https://cdn.philasd.org/offices/performance/SPREE_Files/2023-2024/Reports/%5B3437%5D_SP_SPREE_SPOTlight.pdf
+3438,3438,Deep Roots Charter School,"Lucilla Perry
+Sector Charter",Charter,Charters,Charters,District 6,K-5,Citywide,High School,300,328.0,0.0,0.0,42.3,35.0,14.0,0.0,8.7,35.3,4.3,90.0,48.2,,22.9,48.2,23.0,,,,,21.6,24.2,11.4,14.0,43.2,,https://cdn.philasd.org/offices/performance/SPREE_Files/2023-2024/Reports/%5B3438%5D_SP_SPREE_SPOTlight.pdf
+3439,3439,Mastery Prep Elementary Charter School,Joel Boyd,Charter,Charters,Charters,District 8,K-6,Citywide,High School,595,622.0,0.0,0.3,85.7,10.1,3.4,0.2,0.3,22.4,1.7,98.8,,,42.8,72.5,,,,,,,,,,,,https://cdn.philasd.org/offices/performance/SPREE_Files/2023-2024/Reports/%5B3439%5D_SP_SPREE_SPOTlight.pdf
+3440,3440,MaST Community Charter School II,"Whitney El Laisy
+Sector Charter",Charter,Charters,Charters,District 6,K-12,Citywide,High School,1900,,0.1,14.2,29.3,22.8,5.8,0.1,27.9,,3.9,66.1,82.4,,48.5,82.4,2.0,100.0,4.0,4.0,4.0,48.5,47.2,42.4,29.6,67.6,,https://cdn.philasd.org/offices/performance/SPREE_Files/2023-2024/Reports/%5B3440%5D_SP_SPREE_SPOTlight.pdf
+3441,3441,TECH Freire Charter School,"Nate Durant
+Sector Charter",Charter,Charters,Charters,District 5,9-12,Citywide,High School,491,544.0,0.4,0.0,90.6,5.5,3.3,0.0,0.2,22.8,0.6,48.9,53.5,,23.9,53.5,17.0,92.1,15.6,22.9,47.7,,,,,,,https://cdn.philasd.org/offices/performance/SPREE_Files/2023-2024/Reports/%5B3441%5D_SP_SPREE_SPOTlight.pdf
+3442,3442,Impact Charter School West,"Dana Twyman
+Sector Charter",Charter,Charters,Charters,District 3,K-8,Citywide,High School,843,857.0,0.2,0.0,93.2,2.3,2.6,0.0,1.7,28.7,2.4,88.3,63.7,,36.1,63.7,22.0,,,,,28.6,23.2,17.4,8.7,37.7,,https://cdn.philasd.org/offices/performance/SPREE_Files/2023-2024/Reports/%5B3442%5D_SP_SPREE_SPOTlight.pdf
+3443,3443,KIPP West Philadelphia Charter School,Cheshonna Miles,Charter,Charters,Charters,District 3,K-8,Citywide,High School,850,885.0,0.2,0.0,93.9,2.6,3.2,0.0,0.1,26.9,0.2,86.2,,,23.3,55.4,,,,,,,,,,,,https://cdn.philasd.org/offices/performance/SPREE_Files/2023-2024/Reports/%5B3443%5D_SP_SPREE_SPOTlight.pdf
+3445,3445,MAST Community Charter School III,"Phil Serpiello
+Sector Charter",Charter,Charters,Charters,District 10,K-9,Citywide,High School,1310,,0.5,9.2,36.9,27.0,4.3,0.1,22.1,,6.5,74.1,82.1,,45.9,82.1,22.0,,1.0,4.0,4.0,35.3,36.7,29.4,19.4,43.8,,https://cdn.philasd.org/offices/performance/SPREE_Files/2023-2024/Reports/%5B3445%5D_SP_SPREE_SPOTlight.pdf
+3446,3446,Philadelphia Hebrew Public Charter School,"Elyssa Yuen
+Sector Charter",Charter,Charters,Charters,District 4,K-6,Citywide,High School,491,500.0,0.4,1.8,74.5,2.0,15.3,0.2,5.7,24.4,5.9,82.9,64.6,,30.2,64.6,23.0,,,,,32.9,27.4,19.2,18.8,,,https://cdn.philasd.org/offices/performance/SPREE_Files/2023-2024/Reports/%5B3446%5D_SP_SPREE_SPOTlight.pdf
+4020,4020,Overbrook High School,"Julian Graham
+Sector District",District,Network 12,Network 12,District 4,9-12,Catchment,High School,388,536.0,0.3,0.5,90.5,4.6,3.6,0.0,0.5,20.6,3.1,82.5,31.0,87.9,13.4,31.0,5.0,82.4,6.6,8.8,29.8,,,,,,,https://cdn.philasd.org/offices/performance/SPREE_Files/2023-2024/Reports/%5B4020%5D_SP_SPREE_SPOTlight.pdf
+4030,4030,Carver High School of Engineering and Science,"Darryl Johnson
+Sector District",District,Network 15,Network 15,District 5,7-12,Criteria,High School,843,,0.1,14.4,59.0,12.0,5.8,0.1,8.7,,2.3,60.6,81.4,84.8,54.8,81.4,1.0,100.0,47.5,66.3,82.3,,80.5,,46.8,74.6,,https://cdn.philasd.org/offices/performance/SPREE_Files/2023-2024/Reports/%5B4030%5D_SP_SPREE_SPOTlight.pdf
+4060,4060,Murrell Dobbins Career and Technical Education High School,"Shervon Thompson
+Sector District",District,Network 13,Network 13,District 5,9-12,Citywide,High School,766,786.0,0.0,0.4,89.3,6.8,2.6,0.0,0.9,18.9,2.0,90.3,35.2,81.0,13.9,35.2,23.0,84.3,0.6,5.8,15.3,,,,,,48.8,https://cdn.philasd.org/offices/performance/SPREE_Files/2023-2024/Reports/%5B4060%5D_SP_SPREE_SPOTlight.pdf
+4140,4140,Strawberry Mansion High School,"Jeannine Payne
+Sector District",District,Network 13,Network 13,District 5,9-12,Catchment,High School,246,347.0,0.0,0.0,92.3,2.9,2.9,0.0,2.0,44.7,0.8,92.3,35.5,83.9,21.3,35.5,5.0,73.2,2.0,4.0,11.1,,,,,,,https://cdn.philasd.org/offices/performance/SPREE_Files/2023-2024/Reports/%5B4140%5D_SP_SPREE_SPOTlight.pdf
+4220,4220,James G. Blaine School,"Gianeen Anyika
+Sector District",District,Network 5,Network 5,District 5,K-8,Catchment,High School,305,358.0,0.0,0.0,95.4,2.3,0.3,0.0,2.0,38.0,0.0,89.8,52.5,83.3,30.5,52.5,0.0,,,,,0.0,15.3,0.0,6.3,28.6,,https://cdn.philasd.org/offices/performance/SPREE_Files/2023-2024/Reports/%5B4220%5D_SP_SPREE_SPOTlight.pdf
+4240,4240,Lewis C. Cassidy Academics Plus School,"Herman Douglas Jr
+Sector District",District,Network 3,Network 3,District 4,K-8,Catchment,High School,218,280.0,0.0,0.0,86.2,9.6,3.2,0.0,0.9,28.0,11.0,84.9,43.9,93.8,22.5,43.9,1.0,,,,,10.0,14.1,4.8,6.2,16.3,,https://cdn.philasd.org/offices/performance/SPREE_Files/2023-2024/Reports/%5B4240%5D_SP_SPREE_SPOTlight.pdf
+4270,4270,William Dick School,,District,Network 5,Network 5,District 5,K-8,Catchment,High School,309,378.0,1.0,0.0,90.3,5.8,1.3,0.0,1.6,24.6,1.0,96.8,34.1,77.8,15.6,34.1,0.0,,,,,12.8,19.0,7.7,3.4,15.3,,https://cdn.philasd.org/offices/performance/SPREE_Files/2023-2024/Reports/%5B4270%5D_SP_SPREE_SPOTlight.pdf
+4280,4280,Samuel Gompers School,"Phillip Deluca
+Sector District",District,Network 3,Network 3,District 4,K-8,Catchment,High School,237,286.0,2.1,1.3,89.0,4.2,0.8,0.0,2.5,24.9,1.7,85.2,63.3,79.2,37.8,63.3,0.0,,,,,22.2,26.5,11.1,6.2,30.2,,https://cdn.philasd.org/offices/performance/SPREE_Files/2023-2024/Reports/%5B4280%5D_SP_SPREE_SPOTlight.pdf
+4300,4300,Edward Heston School,"Angela Edwards
+Sector District",District,Network 3,Network 3,District 4,K-8,Catchment,High School,285,356.0,0.0,0.0,94.4,4.9,0.7,0.0,0.0,13.7,1.8,88.1,42.7,78.1,15.2,42.7,0.0,,,,,5.7,8.1,5.9,2.2,25.8,,https://cdn.philasd.org/offices/performance/SPREE_Files/2023-2024/Reports/%5B4300%5D_SP_SPREE_SPOTlight.pdf
+4320,4320,Robert E. Lamberton School,"Andrea Surratt
+Sector District",District,Network 3,Network 3,District 4,K-8,Catchment,High School,309,357.0,0.0,1.0,90.6,6.8,1.3,0.0,0.3,41.1,6.2,77.7,59.9,83.3,28.6,59.9,3.0,,,,,16.2,17.6,11.4,3.0,23.2,,https://cdn.philasd.org/offices/performance/SPREE_Files/2023-2024/Reports/%5B4320%5D_SP_SPREE_SPOTlight.pdf
+4350,4350,E. Washington Rhodes School,"Christopher Harris
+Sector District",District,Network 5,Network 5,District 4,K-8,Catchment,High School,391,464.0,0.5,0.0,88.0,8.4,2.8,0.0,0.3,28.1,0.8,91.8,37.1,66.7,20.5,37.1,2.0,,,,,10.8,11.0,13.5,3.2,9.8,,https://cdn.philasd.org/offices/performance/SPREE_Files/2023-2024/Reports/%5B4350%5D_SP_SPREE_SPOTlight.pdf
+4360,4360,Kenderton Elementary School,"Deanna Bredell
+Sector District",District,Network 8,Network 8,District 8,K-8,Catchment,High School,287,361.0,0.7,0.0,85.4,12.5,0.7,0.0,0.7,26.8,2.1,89.6,50.1,56.7,23.6,50.1,0.0,,,,,,10.7,,4.1,25.5,,https://cdn.philasd.org/offices/performance/SPREE_Files/2023-2024/Reports/%5B4360%5D_SP_SPREE_SPOTlight.pdf
+4370,4370,Overbrook Elementary School,"Kenneth Glover
+Sector District",District,Network 3,Network 3,District 4,K-8,Catchment,High School,213,243.0,0.5,0.0,93.0,3.3,1.9,0.0,1.4,20.2,1.4,78.9,53.9,88.9,29.6,53.9,0.0,,,,,,29.6,,11.2,38.6,,https://cdn.philasd.org/offices/performance/SPREE_Files/2023-2024/Reports/%5B4370%5D_SP_SPREE_SPOTlight.pdf
+4380,4380,Thomas M. Peirce School,"Anthony Gordon
+Sector District",District,Network 5,Network 5,District 8,K-5,Catchment,High School,190,243.0,0.0,0.0,96.8,2.6,0.0,0.0,0.5,15.3,1.6,95.3,39.9,79.0,19.3,39.9,23.0,,,,,21.2,14.7,8.8,3.9,35.1,,https://cdn.philasd.org/offices/performance/SPREE_Files/2023-2024/Reports/%5B4380%5D_SP_SPREE_SPOTlight.pdf
+4440,4440,Dr. Ethel Allen School,,District,Network 5,Network 5,District 5,K-8,Catchment,High School,314,369.0,0.0,0.0,94.3,5.1,0.3,0.0,0.3,18.8,1.3,90.1,35.0,79.0,13.0,35.0,0.0,,,,,14.8,12.3,14.8,7.6,25.5,,https://cdn.philasd.org/offices/performance/SPREE_Files/2023-2024/Reports/%5B4440%5D_SP_SPREE_SPOTlight.pdf
+4460,4460,Tanner G. Duckrey School,"David Cohen
+Sector District",District,Network 8,Network 8,District 5,K-8,Catchment,High School,423,530.0,0.2,1.2,91.7,4.7,1.9,0.0,0.2,22.7,1.9,91.7,36.4,90.6,17.4,36.4,1.0,,,,,34.9,19.6,27.3,8.9,16.7,,https://cdn.philasd.org/offices/performance/SPREE_Files/2023-2024/Reports/%5B4460%5D_SP_SPREE_SPOTlight.pdf
+4470,4470,Richard R. Wright School,"Sakia Beard
+Sector District",District,Network 5,Network 5,District 5,K-5,Catchment,High School,238,274.0,0.4,0.0,84.5,13.0,1.3,0.0,0.8,39.5,2.1,88.2,40.5,77.8,15.7,40.5,23.0,,,,,11.6,11.3,0.0,8.2,30.2,,https://cdn.philasd.org/offices/performance/SPREE_Files/2023-2024/Reports/%5B4470%5D_SP_SPREE_SPOTlight.pdf
+4480,4480,Overbrook Educational Center,"Olivia Jones
+Sector District",District,Network 3,Network 3,District 4,K-8,Citywide,High School,260,271.0,0.0,0.4,90.4,3.9,4.2,0.0,1.2,33.1,0.8,72.7,78.6,88.9,53.5,78.6,0.0,,,,,32.0,40.8,20.0,14.0,42.3,,https://cdn.philasd.org/offices/performance/SPREE_Files/2023-2024/Reports/%5B4480%5D_SP_SPREE_SPOTlight.pdf
+4520,4520,Guion S. Bluford School,"Tangela McClam
+Sector District",District,Network 3,Network 3,District 4,K-8,Catchment,High School,535,561.0,0.2,0.6,93.5,3.2,2.4,0.0,0.2,22.2,2.4,88.2,55.8,78.8,31.4,55.8,2022.0,,,,,,,,,,,https://cdn.philasd.org/offices/performance/SPREE_Files/2023-2024/Reports/%5B4520%5D_SP_SPREE_SPOTlight.pdf
+4530,4530,Edward Gideon School,"Shauneille Taylor
+Sector District",District,Network 5,Network 5,District 5,K-8,Catchment,High School,187,225.0,0.0,0.0,92.0,3.7,1.6,0.0,2.7,27.3,1.6,92.0,35.6,80.0,17.8,35.6,0.0,,,,,,16.2,0.0,5.8,23.8,,https://cdn.philasd.org/offices/performance/SPREE_Files/2023-2024/Reports/%5B4530%5D_SP_SPREE_SPOTlight.pdf
+4560,4560,William D. Kelley School,"Crystal Edwards
+Sector District",District,Network 5,Network 5,District 5,K-8,Catchment,High School,222,261.0,0.5,0.5,91.4,7.2,0.5,0.0,0.0,25.2,1.8,90.5,3.0,90.5,,,0.0,,,,,,17.1,,13.9,32.5,,https://cdn.philasd.org/offices/performance/SPREE_Files/2023-2024/Reports/%5B4560%5D_SP_SPREE_SPOTlight.pdf
+4570,4570,General George G. Meade School,"Akeere Scott
+Sector District",District,Network 4,Network 4,District 5,K-8,Catchment,High School,267,333.0,0.0,0.8,90.3,4.9,1.9,0.0,2.3,27.0,2.3,95.1,40.8,93.1,18.6,40.8,0.0,,,,,4.8,15.9,0.0,4.9,21.7,,https://cdn.philasd.org/offices/performance/SPREE_Files/2023-2024/Reports/%5B4570%5D_SP_SPREE_SPOTlight.pdf
+5020,5020,Thomas A. Edison High School,"Lillian Izzard
+Sector District",District,Network 14,Network 14,District 7,9-12,Catchment,High School,876,1094.0,0.0,0.5,30.4,65.6,2.2,0.0,1.4,28.1,28.8,87.4,32.8,82.7,17.0,32.8,62.0,58.4,9.6,10.5,30.8,,,,,,31.6,https://cdn.philasd.org/offices/performance/SPREE_Files/2023-2024/Reports/%5B5020%5D_SP_SPREE_SPOTlight.pdf
+5050,5050,Philadelphia Military Academy,"Kristian Ali
+Sector District",District,Network 13,Network 13,District 5,9-12,Citywide,High School,316,323.0,0.0,1.3,63.3,28.5,3.8,0.0,3.2,33.2,11.7,83.9,40.6,95.2,18.3,40.6,7.0,96.4,1.6,7.4,36.7,,,,,,,https://cdn.philasd.org/offices/performance/SPREE_Files/2023-2024/Reports/%5B5050%5D_SP_SPREE_SPOTlight.pdf
+5060,5060,Jules E. Mastbaum Area Vocational Technical High School,"David Lon Jr
+Sector District",District,Network 13,Network 13,District 1,9-12,Citywide,High School,586,610.0,0.0,1.7,43.2,45.1,5.5,0.0,4.6,22.2,18.1,90.8,37.2,84.3,15.1,37.2,25.0,75.7,6.0,21.1,28.6,,,,,,42.9,https://cdn.philasd.org/offices/performance/SPREE_Files/2023-2024/Reports/%5B5060%5D_SP_SPREE_SPOTlight.pdf
+5070,5070,Parkway Northwest High School,"Bonnie Uditsky
+Sector District",District,Network 15,Network 15,District 8,9-12,Criteria,High School,219,222.0,0.0,0.9,92.2,2.3,4.6,0.0,0.0,15.1,0.5,71.7,69.8,73.3,39.6,69.8,3.0,93.9,8.6,13.8,58.6,,,,,,,https://cdn.philasd.org/offices/performance/SPREE_Files/2023-2024/Reports/%5B5070%5D_SP_SPREE_SPOTlight.pdf
+5080,5080,Parkway Center City Middle College High School,"Brian Wallace
+Sector District",District,Network 15,Network 15,District 5,9-12,Criteria,High School,426,426.0,0.0,8.0,66.4,17.1,5.2,0.2,3.1,4.7,2.4,71.1,74.9,90.0,45.1,74.9,0.0,100.0,41.8,65.8,95.0,,,,,,,https://cdn.philasd.org/offices/performance/SPREE_Files/2023-2024/Reports/%5B5080%5D_SP_SPREE_SPOTlight.pdf
+5090,5090,Parkway West High School,"William Brown
+Sector District",District,Network 15,Network 15,District 3,9-12,Criteria,High School,167,172.0,0.0,1.2,89.8,2.4,6.6,0.0,0.0,28.7,5.4,88.0,50.6,94.4,24.4,50.6,6.0,83.7,4.6,17.5,46.5,,,,,,75.8,https://cdn.philasd.org/offices/performance/SPREE_Files/2023-2024/Reports/%5B5090%5D_SP_SPREE_SPOTlight.pdf
+5150,5150,William W. Bodine School,"Richard Mitchell
+Sector District",District,Network 15,Network 15,District 1,9-12,Criteria,High School,464,468.0,0.0,16.0,39.9,24.4,7.3,0.2,12.3,7.5,8.6,74.8,87.2,82.1,56.8,87.2,0.0,95.6,52.9,63.3,91.7,,,,,,,https://cdn.philasd.org/offices/performance/SPREE_Files/2023-2024/Reports/%5B5150%5D_SP_SPREE_SPOTlight.pdf
+5160,5160,Penn Treaty School,"Wajibah Thompson
+Sector District",District,Network 13,Network 13,District 5,6-12,Catchment,High School,428,,0.5,0.9,36.9,32.7,5.8,0.0,23.1,,5.8,88.6,35.0,77.3,16.9,35.0,15.0,60.0,6.5,7.6,16.7,,26.9,,3.5,16.7,,https://cdn.philasd.org/offices/performance/SPREE_Files/2023-2024/Reports/%5B5160%5D_SP_SPREE_SPOTlight.pdf
+5170,5170,Julia de Burgos School,"Bianca Reyes
+Sector District",District,Network 8,Network 8,District 7,K-8,Catchment,High School,609,654.0,0.2,0.0,14.0,82.9,2.1,0.0,0.8,28.6,27.4,90.5,59.2,81.8,33.8,59.2,0.0,,,,,16.3,16.6,9.8,6.0,21.4,,https://cdn.philasd.org/offices/performance/SPREE_Files/2023-2024/Reports/%5B5170%5D_SP_SPREE_SPOTlight.pdf
+5180,5180,Vaux High School,"Schnee Gant
+Sector District",District,Network 13,Network 13,District 5,9-12,Catchment,High School,302,366.0,0.3,0.0,89.4,5.6,3.6,0.3,0.7,26.8,2.3,85.8,30.3,87.5,12.6,30.3,5.0,85.5,4.0,4.0,4.0,,,,,,,https://cdn.philasd.org/offices/performance/SPREE_Files/2023-2024/Reports/%5B5180%5D_SP_SPREE_SPOTlight.pdf
+5200,5200,Alexander Adaire School,"Anna Jenkins
+Sector District",District,Network 4,Network 4,District 5,K-8,Catchment,High School,418,429.0,0.0,3.4,3.1,9.1,6.7,0.0,77.8,12.9,1.4,38.8,91.4,93.6,65.3,91.4,0.0,,,,,78.0,71.4,62.0,49.8,85.5,,https://cdn.philasd.org/offices/performance/SPREE_Files/2023-2024/Reports/%5B5200%5D_SP_SPREE_SPOTlight.pdf
+5210,5210,Henry A. Brown School,"Connie Carnivale
+Sector District",District,Network 8,Network 8,District 1,K-8,Catchment,High School,306,336.0,0.0,8.5,19.9,50.7,3.3,0.3,17.3,26.5,9.5,81.7,55.7,83.3,26.8,55.7,1.0,,,,,35.5,32.6,35.5,18.3,38.5,,https://cdn.philasd.org/offices/performance/SPREE_Files/2023-2024/Reports/%5B5210%5D_SP_SPREE_SPOTlight.pdf
+5230,5230,Russell H. Conwell School,"Erica Green
+Sector District",District,Network 9,Network 9,District 7,5-8,Criteria,High School,127,131.0,0.8,2.4,22.8,59.8,3.2,0.0,11.0,11.8,9.5,87.4,76.5,83.3,44.7,76.5,0.0,,,,,,45.8,,13.5,57.1,,https://cdn.philasd.org/offices/performance/SPREE_Files/2023-2024/Reports/%5B5230%5D_SP_SPREE_SPOTlight.pdf
+5250,5250,Paul L. Dunbar School,"Yancy Bright
+Sector District",District,Network 4,Network 4,District 5,K-8,Catchment,High School,231,247.0,0.0,2.2,85.3,7.8,1.3,0.0,3.5,32.0,4.3,89.2,57.1,88.0,32.0,57.1,0.0,,,,,30.8,26.6,19.2,12.7,37.5,,https://cdn.philasd.org/offices/performance/SPREE_Files/2023-2024/Reports/%5B5250%5D_SP_SPREE_SPOTlight.pdf
+5260,5260,Lewis Elkin School,"Charlotte Gillum
+Sector District",District,Network 9,Network 9,District 7,K-4,Catchment,High School,529,593.0,0.0,0.6,17.2,78.8,1.3,0.0,2.1,19.5,37.8,83.9,41.8,74.5,18.7,41.8,23.0,,,,,9.6,7.6,2.8,2.8,20.0,,https://cdn.philasd.org/offices/performance/SPREE_Files/2023-2024/Reports/%5B5260%5D_SP_SPREE_SPOTlight.pdf
+5300,5300,Horatio B. Hackett School,"Todd Kimmel
+Sector District",District,Network 4,Network 4,District 1,K-5,Catchment,High School,393,406.0,0.3,3.1,10.4,21.6,8.4,0.0,56.2,21.9,2.8,55.7,78.3,84.9,51.5,78.3,23.0,,,,,54.6,52.7,51.9,55.1,74.6,,https://cdn.philasd.org/offices/performance/SPREE_Files/2023-2024/Reports/%5B5300%5D_SP_SPREE_SPOTlight.pdf
+5320,5320,John F. Hartranft School,"Keith Arrington
+Sector District",District,Network 8,Network 8,District 5,K-8,Catchment,High School,293,360.0,0.0,0.0,64.9,30.4,3.8,0.3,0.7,36.9,8.5,92.5,46.4,87.9,25.3,46.4,1.0,,,,,17.9,16.7,0.0,3.9,18.0,,https://cdn.philasd.org/offices/performance/SPREE_Files/2023-2024/Reports/%5B5320%5D_SP_SPREE_SPOTlight.pdf
+5330,5330,William H. Hunter School,"Heather Miller
+Sector District",District,Network 8,Network 8,District 7,K-8,Catchment,High School,381,438.0,0.0,0.8,22.6,70.1,3.9,0.3,2.4,34.4,14.4,91.6,45.7,91.4,19.9,45.7,0.0,,,,,25.7,21.9,14.3,10.2,19.8,,https://cdn.philasd.org/offices/performance/SPREE_Files/2023-2024/Reports/%5B5330%5D_SP_SPREE_SPOTlight.pdf
+5340,5340,James R. Ludlow School,"Khary Moody
+Sector District",District,Network 4,Network 4,District 5,K-8,Catchment,High School,203,241.0,0.0,0.5,71.4,20.7,5.4,0.0,2.0,40.4,5.4,91.1,50.2,83.3,22.0,50.2,0.0,,,,,,28.6,,16.8,30.6,,https://cdn.philasd.org/offices/performance/SPREE_Files/2023-2024/Reports/%5B5340%5D_SP_SPREE_SPOTlight.pdf
+5350,5350,William McKinley School,"Marilyn Mejia
+Sector District",District,Network 8,Network 8,District 7,K-8,Catchment,High School,307,336.0,0.0,1.3,44.3,52.8,0.0,0.3,1.3,32.3,11.7,87.6,47.6,77.8,21.4,47.6,0.0,,,,,4.2,9.0,4.0,2.1,14.7,,https://cdn.philasd.org/offices/performance/SPREE_Files/2023-2024/Reports/%5B5350%5D_SP_SPREE_SPOTlight.pdf
+5370,5370,John Moffet School,"Rodney Johnson
+Sector District",District,Network 4,Network 4,District 7,K-5,Catchment,High School,224,233.0,0.0,3.6,25.0,43.3,5.4,0.5,22.3,24.1,14.7,74.1,72.1,87.0,42.9,72.1,23.0,,,,,60.6,40.8,39.4,32.0,61.8,,https://cdn.philasd.org/offices/performance/SPREE_Files/2023-2024/Reports/%5B5370%5D_SP_SPREE_SPOTlight.pdf
+5390,5390,Potter-Thomas School,"Nichole Polk
+Sector District",District,Network 8,Network 8,District 7,K-8,Catchment,High School,360,419.0,0.0,0.0,23.3,74.7,1.1,0.0,0.8,24.4,22.5,90.8,46.5,93.0,20.8,46.5,1.0,,,,,23.3,17.0,20.0,4.2,27.9,,https://cdn.philasd.org/offices/performance/SPREE_Files/2023-2024/Reports/%5B5390%5D_SP_SPREE_SPOTlight.pdf
+5400,5400,Richmond School,"Susan Rozanski
+Sector District",District,Network 9,Network 9,District 1,K-5,Catchment,High School,337,382.0,0.0,1.5,16.9,41.0,7.1,0.3,33.2,20.5,16.0,81.3,55.5,92.9,27.5,55.5,23.0,,,,,25.0,35.1,19.2,19.6,67.9,,https://cdn.philasd.org/offices/performance/SPREE_Files/2023-2024/Reports/%5B5400%5D_SP_SPREE_SPOTlight.pdf
+5410,5410,Isaac A. Sheppard School,"Rose Torres
+Sector District",District,Network 8,Network 8,District 7,K-4,Catchment,High School,132,143.0,0.0,0.8,9.9,88.6,0.8,0.0,0.0,29.6,26.5,78.0,42.0,81.3,18.2,42.0,23.0,,,,,25.0,19.6,25.0,17.4,42.3,,https://cdn.philasd.org/offices/performance/SPREE_Files/2023-2024/Reports/%5B5410%5D_SP_SPREE_SPOTlight.pdf
+5420,5420,John Welsh School,"Daaiyah Green
+Sector District",District,Network 8,Network 8,District 7,K-8,Catchment,High School,255,281.0,0.4,0.4,33.3,63.5,2.0,0.0,0.4,19.6,15.7,92.2,44.5,86.4,17.1,44.5,0.0,,,,,22.7,18.6,14.3,3.2,28.1,,https://cdn.philasd.org/offices/performance/SPREE_Files/2023-2024/Reports/%5B5420%5D_SP_SPREE_SPOTlight.pdf
+5430,5430,Alternative Middle Years at James Martin,"Paula Furman
+Sector District",District,Network 9,Network 9,District 6,6-8,Citywide,High School,208,213.0,0.0,0.5,29.8,35.1,5.3,0.0,29.3,38.5,5.8,88.9,58.7,95.5,28.2,58.7,0.0,,,,,,23.6,,9.4,25.4,,https://cdn.philasd.org/offices/performance/SPREE_Files/2023-2024/Reports/%5B5430%5D_SP_SPREE_SPOTlight.pdf
+5440,5440,Frances E. Willard School,"Diana Garcia
+Sector District",District,Network 9,Network 9,District 1,K-4,Catchment,High School,405,450.0,0.3,0.5,28.2,64.7,2.2,0.0,4.2,27.4,17.0,86.2,54.2,91.2,24.4,54.2,23.0,,,,,12.7,13.6,13.6,12.8,42.7,,https://cdn.philasd.org/offices/performance/SPREE_Files/2023-2024/Reports/%5B5440%5D_SP_SPREE_SPOTlight.pdf
+5470,5470,William Cramp School,"Yonaira Rodriguez
+Sector District",District,Network 9,Network 9,District 7,K-5,Catchment,High School,348,376.0,0.3,0.0,17.0,81.0,0.3,0.3,1.2,19.8,23.9,92.0,53.2,84.4,22.1,53.2,23.0,,,,,15.5,16.4,10.2,9.2,36.2,,https://cdn.philasd.org/offices/performance/SPREE_Files/2023-2024/Reports/%5B5470%5D_SP_SPREE_SPOTlight.pdf
+5480,5480,General Philip Kearny School,"Sabrina Scott Feggins
+Sector District",District,Network 4,Network 4,District 5,K-8,Catchment,High School,166,203.0,0.0,0.6,75.9,15.7,6.0,0.0,1.8,34.3,5.4,82.5,53.2,85.0,29.1,53.2,0.0,,,,,,31.6,,7.9,35.7,,https://cdn.philasd.org/offices/performance/SPREE_Files/2023-2024/Reports/%5B5480%5D_SP_SPREE_SPOTlight.pdf
+5490,5490,Cayuga School,"Jason Carrion
+Sector District",District,Network 7,Network 7,District 7,K-5,Catchment,High School,333,379.0,0.0,0.0,22.5,76.0,1.2,0.0,0.3,18.6,38.4,77.5,58.3,96.8,27.4,58.3,23.0,,,,,24.4,16.8,21.4,7.9,39.2,,https://cdn.philasd.org/offices/performance/SPREE_Files/2023-2024/Reports/%5B5490%5D_SP_SPREE_SPOTlight.pdf
+5500,5500,Thurgood Marshall School,"Sherri Wallace
+Sector District",District,Network 7,Network 7,District 8,K-8,Catchment,High School,599,683.0,0.0,4.5,56.1,35.7,2.8,0.0,0.8,33.1,21.4,85.6,54.5,86.0,29.9,54.5,0.0,,,,,36.7,24.5,20.4,8.5,28.6,,https://cdn.philasd.org/offices/performance/SPREE_Files/2023-2024/Reports/%5B5500%5D_SP_SPREE_SPOTlight.pdf
+5520,5520,Kensington High School for Creative and Performing Arts,"Patricia McDermott
+Sector District",District,Network 13,Network 13,District 7,9-12,Catchment,High School,500,534.0,0.4,0.4,33.8,55.2,4.8,0.0,5.4,23.4,15.8,87.6,32.6,85.4,15.0,32.6,23.0,72.2,1.1,1.2,38.6,,,,,,40.0,https://cdn.philasd.org/offices/performance/SPREE_Files/2023-2024/Reports/%5B5520%5D_SP_SPREE_SPOTlight.pdf
+5530,5530,Gloria Casarez School,"Awilda Balbuena
+Sector District",District,Network 9,Network 9,District 7,K-5,Catchment,High School,460,515.0,0.0,0.7,29.1,66.3,1.5,0.0,2.4,15.7,25.4,78.9,63.3,86.1,26.2,63.3,23.0,,,,,15.5,13.3,9.9,8.4,15.8,,https://cdn.philasd.org/offices/performance/SPREE_Files/2023-2024/Reports/%5B5530%5D_SP_SPREE_SPOTlight.pdf
+5550,5550,Kensington Health Sciences Academy,"Nimet Eren
+Sector District",District,Network 13,Network 13,District 1,9-12,Catchment,High School,451,481.0,0.0,1.6,17.1,71.6,2.4,0.0,7.3,25.7,23.3,88.7,41.4,94.7,17.7,41.4,10.0,86.4,6.3,17.2,50.5,,,,,,21.3,https://cdn.philasd.org/offices/performance/SPREE_Files/2023-2024/Reports/%5B5550%5D_SP_SPREE_SPOTlight.pdf
+5560,5560,Spring Garden School,"Raqueebah Burch
+Sector District",District,Network 4,Network 4,District 5,K-8,Catchment,High School,254,285.0,0.4,1.2,48.4,46.1,1.6,0.0,2.4,14.2,33.1,80.3,57.5,85.7,31.9,57.5,0.0,,,,,17.2,17.0,13.8,6.6,15.1,,https://cdn.philasd.org/offices/performance/SPREE_Files/2023-2024/Reports/%5B5560%5D_SP_SPREE_SPOTlight.pdf
+5580,5580,John B. Stetson Middle School,"Thomas Mullin
+Sector District",District,Network 9,Network 9,District 7,5-8,Catchment,High School,537,590.0,0.0,0.0,18.6,76.7,3.4,0.0,1.3,30.0,26.3,88.8,52.4,77.5,25.4,52.4,4.0,,,,,,,,,,,https://cdn.philasd.org/offices/performance/SPREE_Files/2023-2024/Reports/%5B5580%5D_SP_SPREE_SPOTlight.pdf
+5590,5590,John H. Webster School,"Sherri Arabia
+Sector District",District,Network 9,Network 9,District 6,K-5,Catchment,High School,471,522.0,0.4,0.4,30.4,54.6,4.0,0.0,10.2,27.0,10.2,85.6,50.2,86.7,23.8,50.2,23.0,,,,,30.3,23.2,21.2,15.5,47.1,,https://cdn.philasd.org/offices/performance/SPREE_Files/2023-2024/Reports/%5B5590%5D_SP_SPREE_SPOTlight.pdf
+5610,5610,Building 21,"Benjamin Koch
+Sector District",District,Network 14,Network 14,District 9,9-12,Citywide,High School,382,388.0,0.0,1.1,90.3,7.3,1.3,0.0,0.0,22.3,3.4,86.1,58.8,86.2,33.0,58.8,8.0,84.7,2.6,2.6,25.0,,,,,,,https://cdn.philasd.org/offices/performance/SPREE_Files/2023-2024/Reports/%5B5610%5D_SP_SPREE_SPOTlight.pdf
+5620,5620,The U School,"Neil Geyette
+Sector District",District,Network 13,Network 13,District 5,9-12,Citywide,High School,205,216.0,0.0,1.0,75.6,18.1,3.4,0.0,2.0,26.8,3.9,90.7,36.6,81.3,11.1,36.6,4.0,92.1,1.9,16.3,41.2,,,,,,5.0,https://cdn.philasd.org/offices/performance/SPREE_Files/2023-2024/Reports/%5B5620%5D_SP_SPREE_SPOTlight.pdf
+5660,5660,The LINC High School,"Bridget Bujak
+Sector District",District,Network 14,Network 14,District 7,9-12,Citywide,High School,227,238.0,0.0,1.8,36.6,53.7,4.0,0.0,4.0,16.7,17.6,89.4,42.9,83.3,15.1,42.9,1.0,79.3,8.1,8.8,22.2,,,,,,,https://cdn.philasd.org/offices/performance/SPREE_Files/2023-2024/Reports/%5B5660%5D_SP_SPREE_SPOTlight.pdf
+5680,5680,Honorable Luis Munoz-Marin School,"Amanda Jones
+Sector District",District,Network 8,Network 8,District 7,K-8,Catchment,High School,522,575.0,0.0,0.4,12.5,84.3,1.3,0.0,1.5,28.7,27.0,94.4,58.1,88.9,34.3,58.1,1.0,,,,,7.8,12.7,3.9,5.1,20.4,,https://cdn.philasd.org/offices/performance/SPREE_Files/2023-2024/Reports/%5B5680%5D_SP_SPREE_SPOTlight.pdf
+5700,5700,Kensington High School,"Jose Lebron
+Sector District",District,Network 13,Network 13,District 1,9-12,Catchment,High School,462,503.0,0.2,1.3,31.2,53.0,5.4,0.4,8.4,32.3,16.9,87.0,30.4,84.4,15.9,30.4,20.0,72.0,7.7,13.0,29.9,,,,,,32.1,https://cdn.philasd.org/offices/performance/SPREE_Files/2023-2024/Reports/%5B5700%5D_SP_SPREE_SPOTlight.pdf
+6010,6010,Central High School,"Katharine Davis
+Sector District",District,Network 15,Network 15,District 8,9-12,Criteria,High School,2288,2291.0,0.2,36.2,21.6,10.1,4.2,0.1,27.6,2.0,2.8,55.8,90.2,92.7,70.0,90.2,2.0,99.3,89.5,88.4,98.4,,,,,,,https://cdn.philasd.org/offices/performance/SPREE_Files/2023-2024/Reports/%5B6010%5D_SP_SPREE_SPOTlight.pdf
+6030,6030,Roxborough High School,,District,Network 13,Network 13,District 4,9-12,Catchment,High School,628,766.0,0.2,0.2,82.3,7.3,4.3,0.2,5.6,35.0,2.9,80.1,40.5,72.3,20.1,40.5,34.0,70.0,4.8,8.7,23.6,,,,,,16.4,https://cdn.philasd.org/offices/performance/SPREE_Files/2023-2024/Reports/%5B6030%5D_SP_SPREE_SPOTlight.pdf
+6040,6040,Walter B. Saul High School,"Samuel Howell
+Sector District",District,Network 15,Network 15,District 4,9-12,Criteria,High School,415,420.0,0.2,1.2,64.1,12.8,4.8,0.0,16.9,17.6,1.5,69.2,57.4,94.1,26.2,57.4,1.0,95.7,10.8,25.5,47.8,,,,,,59.3,https://cdn.philasd.org/offices/performance/SPREE_Files/2023-2024/Reports/%5B6040%5D_SP_SPREE_SPOTlight.pdf
+6050,6050,Philadelphia High School for Girls,"Katiedra Argro
+Sector District",District,Network 15,Network 15,District 8,9-12,Criteria,High School,723,727.0,0.0,12.6,67.5,10.4,5.0,0.1,4.4,6.0,5.4,73.2,62.7,81.4,31.2,62.7,3.0,94.9,30.3,49.4,77.3,,,,,,,https://cdn.philasd.org/offices/performance/SPREE_Files/2023-2024/Reports/%5B6050%5D_SP_SPREE_SPOTlight.pdf
+6060,6060,Martin Luther King High School,"Keisha Wilkins
+Sector District",District,Network 14,Network 14,District 8,9-12,Catchment,High School,511,599.0,0.0,0.8,90.8,6.3,1.2,0.0,1.0,31.1,2.5,86.3,46.8,81.8,25.6,46.8,48.0,63.4,3.0,1.7,15.9,,,,,,,https://cdn.philasd.org/offices/performance/SPREE_Files/2023-2024/Reports/%5B6060%5D_SP_SPREE_SPOTlight.pdf
+6090,6090,A. Philip Randolph Career and Technical High School,"Michelle Burns
+Sector District",District,Network 13,Network 13,District 4,9-12,Citywide,High School,436,443.0,0.2,0.0,81.7,9.9,5.7,0.0,2.5,29.8,3.4,86.9,35.7,85.3,13.1,35.7,20.0,92.9,8.8,1.3,38.5,,,,,,40.0,https://cdn.philasd.org/offices/performance/SPREE_Files/2023-2024/Reports/%5B6090%5D_SP_SPREE_SPOTlight.pdf
+6200,6200,Anna B. Day School,"Karen White
+Sector District",District,Network 6,Network 6,District 8,K-8,Catchment,High School,333,383.0,0.0,0.6,90.7,3.6,4.2,0.3,0.6,19.5,0.9,83.5,62.4,87.0,32.9,62.4,1.0,,,,,28.0,25.0,12.0,6.0,29.5,,https://cdn.philasd.org/offices/performance/SPREE_Files/2023-2024/Reports/%5B6200%5D_SP_SPREE_SPOTlight.pdf
+6210,6210,Franklin S. Edmonds School,"Wendy Sharpe
+Sector District",District,Network 6,Network 6,District 9,K-8,Catchment,High School,363,406.0,0.0,0.6,95.6,2.5,1.4,0.0,0.0,25.9,0.6,78.8,63.8,86.2,33.5,63.8,0.0,,,,,29.2,28.2,14.6,9.9,30.1,,https://cdn.philasd.org/offices/performance/SPREE_Files/2023-2024/Reports/%5B6210%5D_SP_SPREE_SPOTlight.pdf
+6220,6220,Eleanor C. Emlen School,"Tammy Thomas
+Sector District",District,Network 6,Network 6,District 8,K-5,Catchment,High School,296,325.0,2.0,0.0,85.8,5.1,5.4,0.0,1.7,34.8,1.4,80.1,69.2,85.2,37.5,69.2,23.0,,,,,47.1,33.8,20.6,15.7,37.7,,https://cdn.philasd.org/offices/performance/SPREE_Files/2023-2024/Reports/%5B6220%5D_SP_SPREE_SPOTlight.pdf
+6230,6230,Fitler Academics Plus School,"Katherine Sylvester
+Sector District",District,Network 5,Network 5,District 8,K-8,Citywide,High School,177,180.0,0.6,0.0,94.9,3.4,1.1,0.0,0.0,23.7,1.1,84.8,68.3,80.0,32.2,68.3,0.0,,,,,,22.8,,4.4,31.4,,https://cdn.philasd.org/offices/performance/SPREE_Files/2023-2024/Reports/%5B6230%5D_SP_SPREE_SPOTlight.pdf
+6250,6250,Charles W. Henry School,"Kristine Len
+Sector District",District,Network 6,Network 6,District 8,K-8,Catchment,High School,496,515.0,0.4,2.2,46.6,5.0,8.5,0.4,36.9,22.2,0.2,40.7,82.9,88.6,56.1,82.9,0.0,,,,,67.9,65.8,56.6,47.9,72.1,,https://cdn.philasd.org/offices/performance/SPREE_Files/2023-2024/Reports/%5B6250%5D_SP_SPREE_SPOTlight.pdf
+6260,6260,Henry H. Houston School,"Leroy Hall
+Sector District",District,Network 6,Network 6,District 8,K-8,Catchment,High School,421,447.0,0.2,0.5,70.1,3.8,2.9,0.0,22.6,22.6,0.5,55.8,78.1,82.8,49.2,78.1,0.0,,,,,50.0,41.1,45.7,28.5,46.3,,https://cdn.philasd.org/offices/performance/SPREE_Files/2023-2024/Reports/%5B6260%5D_SP_SPREE_SPOTlight.pdf
+6270,6270,John S. Jenks Academy for the Arts and Sciences,"Corinne Scioli
+Sector District",District,Network 6,Network 6,District 8,K-8,Catchment,High School,385,405.0,0.0,1.6,78.4,6.8,4.2,0.0,9.1,19.5,2.6,61.0,77.0,86.2,44.4,77.0,0.0,,,,,60.0,52.2,48.4,33.2,67.6,,https://cdn.philasd.org/offices/performance/SPREE_Files/2023-2024/Reports/%5B6270%5D_SP_SPREE_SPOTlight.pdf
+6300,6300,James Logan School,"Matthew Grill
+Sector District",District,Network 7,Network 7,District 8,K-5,Catchment,High School,224,259.0,0.0,0.5,83.9,13.4,0.9,0.0,1.3,22.8,2.2,87.1,63.3,92.0,32.1,63.3,23.0,,,,,30.0,29.6,30.0,22.2,48.8,,https://cdn.philasd.org/offices/performance/SPREE_Files/2023-2024/Reports/%5B6300%5D_SP_SPREE_SPOTlight.pdf
+6310,6310,John F. McCloskey School,"John Spencer
+Sector District",District,Network 6,Network 6,District 9,K-8,Catchment,High School,249,279.0,0.0,0.0,94.8,2.4,2.8,0.0,0.0,21.7,1.2,73.9,66.7,100.0,41.6,66.7,0.0,,,,,,28.9,,11.6,25.9,,https://cdn.philasd.org/offices/performance/SPREE_Files/2023-2024/Reports/%5B6310%5D_SP_SPREE_SPOTlight.pdf
+6320,6320,Thomas Mifflin School,"Allison McConnell
+Sector District",District,Network 5,Network 5,District 4,K-8,Catchment,High School,359,393.0,0.6,1.4,61.3,10.9,6.4,0.0,19.5,21.5,0.8,63.5,67.2,92.9,41.5,67.2,0.0,,,,,64.7,40.8,55.9,27.4,50.8,,https://cdn.philasd.org/offices/performance/SPREE_Files/2023-2024/Reports/%5B6320%5D_SP_SPREE_SPOTlight.pdf
+6340,6340,Joseph Pennell School,"Susan Lofton
+Sector District",District,Network 6,Network 6,District 8,K-5,Catchment,High School,281,314.0,0.4,2.1,90.0,3.9,2.9,0.0,0.7,22.8,1.4,84.3,51.3,78.6,28.3,51.3,23.0,,,,,17.3,16.9,9.1,13.8,45.1,,https://cdn.philasd.org/offices/performance/SPREE_Files/2023-2024/Reports/%5B6340%5D_SP_SPREE_SPOTlight.pdf
+6350,6350,Samuel Pennypacker School,"Tamika Gilliam
+Sector District",District,Network 6,Network 6,District 9,K-8,Catchment,High School,305,361.0,0.0,0.0,91.8,5.9,1.6,0.0,0.7,20.7,3.9,83.9,67.2,63.0,35.3,67.2,2.0,,,,,17.5,21.7,2.5,5.5,25.4,,https://cdn.philasd.org/offices/performance/SPREE_Files/2023-2024/Reports/%5B6350%5D_SP_SPREE_SPOTlight.pdf
+6360,6360,Theodore Roosevelt School,"Kristen Heifet
+Sector District",District,Network 6,Network 6,District 8,K-8,Catchment,High School,438,557.0,0.2,0.0,91.1,4.6,2.3,0.2,1.6,32.7,0.5,88.8,33.8,84.4,14.4,33.8,3.0,,,,,25.9,13.7,11.1,4.8,14.4,,https://cdn.philasd.org/offices/performance/SPREE_Files/2023-2024/Reports/%5B6360%5D_SP_SPREE_SPOTlight.pdf
+6380,6380,Shawmont School,"John Piniat
+Sector District",District,Network 5,Network 5,District 4,K-8,Catchment,High School,401,431.0,0.8,4.5,47.4,11.0,8.0,0.3,28.2,22.7,5.7,55.6,72.9,87.1,42.9,72.9,0.0,,,,,43.9,51.5,34.2,28.7,63.2,,https://cdn.philasd.org/offices/performance/SPREE_Files/2023-2024/Reports/%5B6380%5D_SP_SPREE_SPOTlight.pdf
+6390,6390,Edward T. Steel School,"Angikindslows Senatus
+Sector District",District,Network 8,Network 8,District 8,K-8,Catchment,High School,320,390.0,0.6,0.6,89.4,7.5,1.3,0.0,0.6,29.4,2.2,86.3,59.2,76.9,24.6,59.2,3.0,,,,,25.9,12.6,13.8,3.9,9.1,,https://cdn.philasd.org/offices/performance/SPREE_Files/2023-2024/Reports/%5B6390%5D_SP_SPREE_SPOTlight.pdf
+6410,6410,Cook-Wissahickon School,"Michael Lowe
+Sector District",District,Network 5,Network 5,District 4,K-8,Catchment,High School,396,425.0,0.3,1.0,33.8,11.1,11.9,0.3,41.7,24.2,4.3,55.6,86.1,80.7,59.3,86.1,0.0,,,,,57.8,54.1,71.1,43.0,60.6,,https://cdn.philasd.org/offices/performance/SPREE_Files/2023-2024/Reports/%5B6410%5D_SP_SPREE_SPOTlight.pdf
+6440,6440,Anna L. Lingelbach School,"Lisa Waddell
+Sector District",District,Network 6,Network 6,District 8,K-8,Catchment,High School,332,360.0,0.3,0.9,75.0,6.0,2.1,0.0,15.7,16.6,5.7,68.7,75.8,88.5,48.6,75.8,0.0,,,,,59.5,39.5,54.8,28.2,43.5,,https://cdn.philasd.org/offices/performance/SPREE_Files/2023-2024/Reports/%5B6440%5D_SP_SPREE_SPOTlight.pdf
+6450,6450,James Dobson School,,District,Network 5,Network 5,District 4,K-8,Catchment,High School,229,237.0,0.4,1.3,30.1,9.6,10.0,0.0,48.5,28.8,0.4,51.1,73.4,86.4,39.7,73.4,0.0,,,,,,62.0,,46.5,78.4,,https://cdn.philasd.org/offices/performance/SPREE_Files/2023-2024/Reports/%5B6450%5D_SP_SPREE_SPOTlight.pdf
+6460,6460,Hill-Freedman World Academy,"Anthony Majewski
+Sector District",District,Network 15,Network 15,District 9,6-12,Criteria,High School,585,,0.3,2.1,84.4,5.8,4.6,0.0,2.7,,2.4,69.4,74.8,84.9,44.1,74.8,0.0,69.9,38.2,36.0,86.8,,59.4,,26.7,41.3,,https://cdn.philasd.org/offices/performance/SPREE_Files/2023-2024/Reports/%5B6460%5D_SP_SPREE_SPOTlight.pdf
+6470,6470,John B. Kelly School,"Alia Dickerson
+Sector District",District,Network 5,Network 5,District 8,K-5,Catchment,High School,351,424.0,0.9,0.0,90.3,4.0,2.3,0.0,2.6,20.5,0.0,81.8,47.2,80.0,21.9,47.2,23.0,,,,,29.5,31.4,10.0,14.2,52.7,,https://cdn.philasd.org/offices/performance/SPREE_Files/2023-2024/Reports/%5B6470%5D_SP_SPREE_SPOTlight.pdf
+6480,6480,Academy for the Middle Years at Northwest,"Jodan Floyd
+Sector District",District,Network 5,Network 5,District 4,6-8,Criteria,High School,134,139.0,0.0,1.5,82.8,9.0,5.2,0.0,1.5,20.9,0.8,86.6,75.5,93.3,43.2,75.5,0.0,,,,,,46.6,,24.8,29.4,,https://cdn.philasd.org/offices/performance/SPREE_Files/2023-2024/Reports/%5B6480%5D_SP_SPREE_SPOTlight.pdf
+6540,6540,Lankenau High School,"Jessica McAtamney
+Sector District",District,Network 15,Network 15,District 4,9-12,Criteria,High School,261,263.0,0.8,0.0,89.7,4.6,3.1,0.0,1.9,19.2,0.8,72.0,60.5,80.0,33.1,60.5,0.0,98.9,15.1,32.7,67.3,,,,,,0.0,https://cdn.philasd.org/offices/performance/SPREE_Files/2023-2024/Reports/%5B6540%5D_SP_SPREE_SPOTlight.pdf
+7010,7010,Frankford High School,"Michael Calderone
+Sector District",District,Network 14,Network 14,District 7,9-12,Catchment,High School,858,1060.0,0.4,1.5,40.4,46.6,4.7,0.2,6.2,28.2,27.4,81.8,34.0,84.1,16.2,34.0,95.0,71.8,3.7,6.0,15.0,,,,,,50.0,https://cdn.philasd.org/offices/performance/SPREE_Files/2023-2024/Reports/%5B7010%5D_SP_SPREE_SPOTlight.pdf
+7060,7060,Olney High School,"Michael Roth
+Sector District",District,Network 14,Network 14,District 8,9-12,Catchment,High School,1186,1372.0,0.0,5.2,37.2,53.1,3.5,0.2,0.8,22.7,37.0,77.6,31.1,85.0,12.1,31.1,83.0,80.0,4.0,4.0,4.0,,,,,,,https://cdn.philasd.org/offices/performance/SPREE_Files/2023-2024/Reports/%5B7060%5D_SP_SPREE_SPOTlight.pdf
+7100,7100,Jay Cooke School,"Christie Parfitt
+Sector District",District,Network 7,Network 7,District 8,K-8,Catchment,High School,396,453.0,0.0,1.0,81.3,12.4,4.6,0.0,0.8,23.2,8.1,85.4,52.3,89.4,26.5,52.3,0.0,,,,,10.3,17.1,3.3,6.4,25.5,,https://cdn.philasd.org/offices/performance/SPREE_Files/2023-2024/Reports/%5B7100%5D_SP_SPREE_SPOTlight.pdf
+7110,7110,Warren G. Harding Middle School,"Mary Sanchez
+Sector District",District,Network 9,Network 9,District 7,6-8,Catchment,High School,600,703.0,0.2,1.7,46.7,39.8,5.0,0.0,6.7,27.5,22.8,86.5,55.1,78.4,28.6,55.1,6.0,,,,,,19.5,,5.4,16.6,,https://cdn.philasd.org/offices/performance/SPREE_Files/2023-2024/Reports/%5B7110%5D_SP_SPREE_SPOTlight.pdf
+7120,7120,Samuel Fels High School,"Melissa Rasper
+Sector District",District,Network 14,Network 14,District 9,9-12,Catchment,High School,1234,1413.0,0.2,7.5,38.6,45.0,3.4,1.4,4.0,18.9,41.7,72.3,48.4,83.9,26.5,48.4,74.0,78.7,6.3,6.8,23.0,,,,,,,https://cdn.philasd.org/offices/performance/SPREE_Files/2023-2024/Reports/%5B7120%5D_SP_SPREE_SPOTlight.pdf
+7130,7130,General Louis Wagner School,"Connie Grier
+Sector District",District,Network 6,Network 6,District 8,6-8,Catchment,High School,302,351.0,0.0,0.0,93.1,4.3,1.7,0.0,1.0,24.5,3.0,89.7,70.9,59.1,46.4,70.9,4.0,,,,,,13.4,,1.6,6.7,,https://cdn.philasd.org/offices/performance/SPREE_Files/2023-2024/Reports/%5B7130%5D_SP_SPREE_SPOTlight.pdf
+7150,7150,Juniata Park Academy,"Marisol Rivera Rodriguez
+Sector District",District,Network 9,Network 9,District 7,K-8,Catchment,High School,865,948.0,0.2,8.2,10.3,76.2,1.6,0.1,3.4,14.8,31.6,89.6,65.3,77.1,35.0,65.3,2.0,,,,,39.1,31.4,29.7,19.0,46.8,,https://cdn.philasd.org/offices/performance/SPREE_Files/2023-2024/Reports/%5B7150%5D_SP_SPREE_SPOTlight.pdf
+7200,7200,Clara Barton School,"Colleen Bowen
+Sector District",District,Network 7,Network 7,District 7,K-2,Catchment,High School,503,569.0,0.0,1.6,18.3,73.8,2.6,0.0,3.8,18.5,38.2,69.4,65.9,75.0,37.8,65.9,23.0,,,,,,,,,,,https://cdn.philasd.org/offices/performance/SPREE_Files/2023-2024/Reports/%5B7200%5D_SP_SPREE_SPOTlight.pdf
+7220,7220,Laura H. Carnell School,"Tiffany Osei
+Sector District",District,Network 10,Network 10,District 9,K-5,Catchment,High School,635,763.0,0.3,2.1,45.7,45.2,1.4,0.8,4.6,10.9,36.5,75.8,59.0,61.4,30.1,59.0,23.0,,,,,19.8,16.5,10.6,9.5,39.6,,https://cdn.philasd.org/offices/performance/SPREE_Files/2023-2024/Reports/%5B7220%5D_SP_SPREE_SPOTlight.pdf
+7260,7260,Ellwood School,"Edward Davies
+Sector District",District,Network 6,Network 6,District 9,K-5,Catchment,High School,270,296.0,0.4,1.1,88.9,5.2,4.4,0.0,0.0,25.6,3.0,79.6,68.9,81.8,38.9,68.9,23.0,,,,,25.6,25.5,13.2,16.8,49.1,,https://cdn.philasd.org/offices/performance/SPREE_Files/2023-2024/Reports/%5B7260%5D_SP_SPREE_SPOTlight.pdf
+7270,7270,Thomas K. Finletter School,"April Brown
+Sector District",District,Network 7,Network 7,District 9,K-8,Catchment,High School,631,705.0,0.2,7.5,68.5,20.3,3.2,0.0,0.5,24.6,11.1,81.9,66.7,85.2,42.7,66.7,0.0,,,,,33.3,29.3,25.5,10.7,29.6,,https://cdn.philasd.org/offices/performance/SPREE_Files/2023-2024/Reports/%5B7270%5D_SP_SPREE_SPOTlight.pdf
+7280,7280,Benjamin Franklin Elementary School,"Roslynn Sample Greene
+Sector District",District,Network 10,Network 10,District 9,K-8,Catchment,High School,592,667.0,0.0,4.9,51.0,38.3,3.7,0.3,1.7,11.7,29.1,82.4,67.9,68.3,39.4,67.9,0.0,,,,,20.3,28.2,9.2,7.9,30.1,,https://cdn.philasd.org/offices/performance/SPREE_Files/2023-2024/Reports/%5B7280%5D_SP_SPREE_SPOTlight.pdf
+7290,7290,Allen M. Stearne School,"Kenneth Orange
+Sector District",District,Network 9,Network 9,District 7,K-8,Catchment,High School,386,429.0,0.3,0.3,49.5,40.7,6.2,0.3,2.9,26.4,13.0,87.1,49.2,86.1,23.5,49.2,0.0,,,,,2.4,16.3,0.0,4.2,23.4,,https://cdn.philasd.org/offices/performance/SPREE_Files/2023-2024/Reports/%5B7290%5D_SP_SPREE_SPOTlight.pdf
+7300,7300,Francis Hopkinson School,,District,Network 9,Network 9,District 7,K-8,Catchment,High School,596,696.0,0.0,2.7,20.0,71.3,1.5,0.7,3.9,18.1,27.9,84.9,54.0,82.0,27.2,54.0,4.0,,,,,25.9,23.2,20.7,9.2,23.0,,https://cdn.philasd.org/offices/performance/SPREE_Files/2023-2024/Reports/%5B7300%5D_SP_SPREE_SPOTlight.pdf
+7310,7310,Feltonville Intermediate School,"Dana Singletary
+Sector District",District,Network 7,Network 7,District 7,3-5,Catchment,High School,501,556.0,0.0,3.4,19.0,73.9,0.8,0.0,3.0,22.2,31.9,89.4,68.0,74.4,37.6,68.0,23.0,,,,,18.6,19.2,9.5,8.3,34.8,,https://cdn.philasd.org/offices/performance/SPREE_Files/2023-2024/Reports/%5B7310%5D_SP_SPREE_SPOTlight.pdf
+7320,7320,Julia W. Howe School,"Matthew Reid
+Sector District",District,Network 7,Network 7,District 9,K-5,Catchment,High School,210,238.0,1.0,1.4,86.7,6.7,3.3,1.0,0.0,21.9,7.6,80.0,66.0,81.8,37.4,66.0,23.0,,,,,34.2,25.5,15.8,14.9,,,https://cdn.philasd.org/offices/performance/SPREE_Files/2023-2024/Reports/%5B7320%5D_SP_SPREE_SPOTlight.pdf
+7330,7330,Henry W. Lawton School,"Arnetta Imes
+Sector District",District,Network 11,Network 11,District 6,K-5,Catchment,High School,530,602.0,0.4,2.8,34.0,45.9,5.3,0.4,11.3,24.7,18.5,81.7,65.3,91.3,35.4,65.3,23.0,,,,,34.6,26.6,18.1,17.3,43.0,,https://cdn.philasd.org/offices/performance/SPREE_Files/2023-2024/Reports/%5B7330%5D_SP_SPREE_SPOTlight.pdf
+7350,7350,James R. Lowell School,"Benita Jessup
+Sector District",District,Network 7,Network 7,District 9,K-4,Catchment,High School,482,546.0,0.4,8.9,62.2,20.8,6.0,0.0,1.7,17.8,17.8,78.2,58.2,79.3,29.5,58.2,23.0,,,,,19.5,26.4,13.9,11.9,48.8,,https://cdn.philasd.org/offices/performance/SPREE_Files/2023-2024/Reports/%5B7350%5D_SP_SPREE_SPOTlight.pdf
+7360,7360,John Marshall School,"William Lawrence
+Sector District",District,Network 9,Network 9,District 7,K-5,Catchment,High School,237,294.0,0.0,0.0,51.5,37.6,2.5,0.0,8.4,20.3,10.6,78.9,42.2,64.0,19.4,42.2,23.0,,,,,21.2,15.1,14.7,11.0,40.5,,https://cdn.philasd.org/offices/performance/SPREE_Files/2023-2024/Reports/%5B7360%5D_SP_SPREE_SPOTlight.pdf
+7370,7370,"Grover Washington, Jr. Middle School","Tiffani Blunt
+Sector District",District,Network 7,Network 7,District 9,5-8,Catchment,High School,427,468.0,0.0,10.5,65.3,18.0,3.5,0.5,2.1,26.7,18.3,87.8,66.7,68.8,41.5,66.7,2.0,,,,,,22.0,,4.7,15.8,,https://cdn.philasd.org/offices/performance/SPREE_Files/2023-2024/Reports/%5B7370%5D_SP_SPREE_SPOTlight.pdf
+7380,7380,Alexander K. McClure School,"Luis Garcia
+Sector District",District,Network 8,Network 8,District 7,K-5,Catchment,High School,417,483.0,0.0,0.2,29.3,69.1,0.5,0.0,1.0,13.9,32.4,89.9,51.6,56.8,25.5,51.6,23.0,,,,,5.8,10.2,1.8,5.0,27.6,,https://cdn.philasd.org/offices/performance/SPREE_Files/2023-2024/Reports/%5B7380%5D_SP_SPREE_SPOTlight.pdf
+7390,7390,Andrew J. Morrison School,"Meredith Lowe
+Sector District",District,Network 7,Network 7,District 8,K-8,Catchment,High School,525,588.0,0.0,3.8,49.9,43.1,2.5,0.0,0.8,21.7,20.6,82.1,66.5,87.5,39.5,66.5,2.0,,,,,29.7,20.3,13.5,8.4,25.3,,https://cdn.philasd.org/offices/performance/SPREE_Files/2023-2024/Reports/%5B7390%5D_SP_SPREE_SPOTlight.pdf
+7400,7400,Olney Elementary School,"Martin Woodside
+Sector District",District,Network 7,Network 7,District 9,K-8,Catchment,High School,693,777.0,0.1,11.3,42.0,43.3,2.6,0.0,0.7,12.4,32.5,82.4,63.5,73.9,33.9,63.5,0.0,,,,,39.7,33.9,26.3,10.8,28.5,,https://cdn.philasd.org/offices/performance/SPREE_Files/2023-2024/Reports/%5B7400%5D_SP_SPREE_SPOTlight.pdf
+7430,7430,James J. Sullivan School,"Shantelle Yarbrough
+Sector District",District,Network 11,Network 11,District 6,K-5,Catchment,High School,383,455.0,0.0,1.3,42.8,42.0,3.4,0.0,10.4,23.8,15.4,84.1,50.8,83.9,23.7,50.8,23.0,,,,,18.2,13.4,14.8,10.1,34.5,,https://cdn.philasd.org/offices/performance/SPREE_Files/2023-2024/Reports/%5B7430%5D_SP_SPREE_SPOTlight.pdf
+7440,7440,Bayard Taylor School,"David Laver
+Sector District",District,Network 8,Network 8,District 7,K-5,Catchment,High School,387,442.0,0.0,0.3,14.0,84.0,1.0,0.0,0.8,22.5,32.8,90.2,52.7,92.5,26.7,52.7,23.0,,,,,15.6,11.6,10.9,10.3,23.3,,https://cdn.philasd.org/offices/performance/SPREE_Files/2023-2024/Reports/%5B7440%5D_SP_SPREE_SPOTlight.pdf
+7460,7460,William H. Ziegler School,"Nicole Freeman
+Sector District",District,Network 11,Network 11,District 7,K-8,Catchment,High School,513,566.0,0.0,5.3,34.5,51.5,4.7,0.2,3.9,23.6,30.8,73.3,63.1,87.0,35.7,63.1,0.0,,,,,37.2,24.1,18.6,12.5,26.0,,https://cdn.philasd.org/offices/performance/SPREE_Files/2023-2024/Reports/%5B7460%5D_SP_SPREE_SPOTlight.pdf
+7470,7470,Bridesburg School,"Donald Dipaulo
+Sector District",District,Network 9,Network 9,District 6,K-8,Catchment,High School,546,572.0,0.0,1.3,3.7,14.8,5.0,0.0,75.3,21.4,2.9,75.6,61.0,76.2,27.3,61.0,0.0,,,,,53.5,42.2,48.8,27.9,40.8,,https://cdn.philasd.org/offices/performance/SPREE_Files/2023-2024/Reports/%5B7470%5D_SP_SPREE_SPOTlight.pdf
+7490,7490,Prince Hall School,"Jamie Lawyer
+Sector District",District,Network 6,Network 6,District 8,K-5,Catchment,High School,339,372.0,0.3,0.3,93.8,2.7,2.1,0.0,0.9,25.1,0.9,82.9,62.9,80.8,34.7,62.9,23.0,,,,,20.9,22.9,7.0,7.4,59.4,,https://cdn.philasd.org/offices/performance/SPREE_Files/2023-2024/Reports/%5B7490%5D_SP_SPREE_SPOTlight.pdf
+7500,7500,Feltonville School of Arts and Sciences,"Lisa Mesi
+Sector District",District,Network 7,Network 7,District 7,6-8,Catchment,High School,554,593.0,0.0,4.9,24.6,64.1,4.2,0.0,2.4,17.3,30.3,84.1,69.8,69.1,45.0,69.8,4.0,,,,,,20.9,,7.2,8.2,,https://cdn.philasd.org/offices/performance/SPREE_Files/2023-2024/Reports/%5B7500%5D_SP_SPREE_SPOTlight.pdf
+7510,7510,Mary M. Bethune School,,District,Network 8,Network 8,District 5,K-8,Catchment,High School,423,495.0,0.0,0.0,72.3,24.6,1.7,0.2,1.2,20.6,9.7,91.5,49.5,90.2,19.0,49.5,1.0,,,,,10.3,17.9,7.7,6.1,21.4,,https://cdn.philasd.org/offices/performance/SPREE_Files/2023-2024/Reports/%5B7510%5D_SP_SPREE_SPOTlight.pdf
+7530,7530,William Rowen School,"Angela Ryans
+Sector District",District,Network 6,Network 6,District 9,K-5,Catchment,High School,311,359.0,0.3,0.3,90.4,4.8,1.9,0.6,1.6,20.9,3.2,83.9,60.5,78.3,32.9,60.5,23.0,,,,,21.4,22.4,11.4,7.6,38.3,,https://cdn.philasd.org/offices/performance/SPREE_Files/2023-2024/Reports/%5B7530%5D_SP_SPREE_SPOTlight.pdf
+7730,7730,Roberto Clemente School,"Zachary Lewis
+Sector District",District,Network 7,Network 7,District 7,6-8,Catchment,High School,201,272.0,0.0,1.5,33.3,61.7,3.0,0.0,0.5,23.4,30.9,88.1,41.2,80.0,18.4,41.2,4.0,,,,,,12.2,,1.2,8.7,,https://cdn.philasd.org/offices/performance/SPREE_Files/2023-2024/Reports/%5B7730%5D_SP_SPREE_SPOTlight.pdf
+8010,8010,Abraham Lincoln High School,"Jack Nelson Jr
+Sector District",District,Network 14,Network 14,District 6,9-12,Catchment,High School,2145,2472.0,0.4,6.1,32.3,39.2,4.2,0.3,17.4,15.5,35.2,71.9,46.0,86.4,23.8,46.0,205.0,70.6,14.5,18.7,35.1,,,,,,37.6,https://cdn.philasd.org/offices/performance/SPREE_Files/2023-2024/Reports/%5B8010%5D_SP_SPREE_SPOTlight.pdf
+8020,8020,Northeast High School,"Omar Crowder
+Sector District",District,Network 14,Network 14,District 10,9-12,Catchment,High School,3264,3573.0,0.4,24.2,24.1,32.4,3.7,0.3,14.8,9.2,34.7,72.3,55.7,87.6,29.7,55.7,120.0,82.8,25.7,36.7,55.7,,,,,,,https://cdn.philasd.org/offices/performance/SPREE_Files/2023-2024/Reports/%5B8020%5D_SP_SPREE_SPOTlight.pdf
+8030,8030,George Washington High School,"Susan Thompson
+Sector District",District,Network 14,Network 14,District 10,9-12,Catchment,High School,1880,2116.0,0.2,17.9,30.3,18.1,6.0,0.1,27.5,18.6,34.8,71.8,56.6,83.0,33.7,56.6,94.0,81.1,21.8,20.5,45.2,,,,,,78.6,https://cdn.philasd.org/offices/performance/SPREE_Files/2023-2024/Reports/%5B8030%5D_SP_SPREE_SPOTlight.pdf
+8040,8040,Arts Academy at Rush High School,"Latoyia Bailey
+Sector District",District,Network 15,Network 15,District 10,9-12,Criteria,High School,583,591.0,0.0,8.8,23.2,19.7,6.4,0.5,41.5,8.1,5.3,52.8,76.3,87.5,45.4,76.3,1.0,99.3,49.6,60.6,80.3,,,,,,,https://cdn.philasd.org/offices/performance/SPREE_Files/2023-2024/Reports/%5B8040%5D_SP_SPREE_SPOTlight.pdf
+8090,8090,Swenson Arts and Technology High School,"Judith Haughton
+Sector District",District,Network 14,Network 14,District 10,9-12,Citywide,High School,843,847.0,0.2,8.7,22.5,29.3,7.4,0.2,31.7,17.8,13.6,73.0,55.8,87.3,28.9,55.8,3.0,96.7,23.0,24.4,49.7,,,,,,63.5,https://cdn.philasd.org/offices/performance/SPREE_Files/2023-2024/Reports/%5B8090%5D_SP_SPREE_SPOTlight.pdf
+8120,8120,Castor Gardens School,"Shawn McGuigan
+Sector District",District,Network 10,Network 10,District 9,6-8,Catchment,High School,1267,1399.0,0.2,20.4,23.1,38.9,4.1,0.1,13.2,12.9,43.0,74.2,71.8,74.7,44.6,71.8,10.0,,,,,,31.3,,16.9,29.3,,https://cdn.philasd.org/offices/performance/SPREE_Files/2023-2024/Reports/%5B8120%5D_SP_SPREE_SPOTlight.pdf
+8130,8130,Northeast Community Propel Academy,"Dywonne Simpson
+Sector District",District,Network 11,Network 11,District 6,K-8,Catchment,High School,1763,1976.0,0.1,17.8,19.6,39.6,3.2,0.1,19.6,11.3,39.5,71.0,67.4,79.4,39.7,67.4,12.0,,,,,21.2,30.0,22.6,20.5,34.5,,https://cdn.philasd.org/offices/performance/SPREE_Files/2023-2024/Reports/%5B8130%5D_SP_SPREE_SPOTlight.pdf
+8160,8160,Charles C.A. Baldi School,"Bianca Gillis
+Sector District",District,Network 10,Network 10,District 10,6-8,Catchment,High School,1512,1675.0,0.1,29.6,12.8,8.7,4.3,0.2,44.4,11.4,32.3,69.4,83.8,88.8,58.5,83.8,9.0,,,,,,52.6,,36.9,48.1,,https://cdn.philasd.org/offices/performance/SPREE_Files/2023-2024/Reports/%5B8160%5D_SP_SPREE_SPOTlight.pdf
+8200,8200,Ethan Allen School,"Cassandra Houston
+Sector District",District,Network 11,Network 11,District 6,K-8,Catchment,High School,912,1042.0,0.1,9.3,21.1,52.1,3.7,0.1,13.6,10.1,45.4,74.2,69.6,91.8,40.1,69.6,5.0,,,,,16.5,18.1,16.5,11.4,28.7,,https://cdn.philasd.org/offices/performance/SPREE_Files/2023-2024/Reports/%5B8200%5D_SP_SPREE_SPOTlight.pdf
+8210,8210,Joseph H. Brown School,"Luke Zeller
+Sector District",District,Network 11,Network 11,District 6,K-8,Catchment,High School,445,489.0,0.0,3.4,34.4,37.3,5.4,0.2,19.3,20.7,21.1,77.3,66.7,91.2,32.7,66.7,0.0,,,,,39.0,28.0,20.0,14.0,30.0,,https://cdn.philasd.org/offices/performance/SPREE_Files/2023-2024/Reports/%5B8210%5D_SP_SPREE_SPOTlight.pdf
+8230,8230,Kennedy C. Crossan School,"Khadijah Bright
+Sector District",District,Network 10,Network 10,District 10,K-5,Catchment,High School,318,352.0,0.0,10.4,35.2,27.4,2.8,0.0,24.2,13.8,22.3,70.4,72.7,81.0,45.2,72.7,23.0,,,,,29.7,32.3,27.0,29.1,65.2,,https://cdn.philasd.org/offices/performance/SPREE_Files/2023-2024/Reports/%5B8230%5D_SP_SPREE_SPOTlight.pdf
+8240,8240,Hamilton Disston School,"Michele Hutz
+Sector District",District,Network 11,Network 11,District 6,K-8,Catchment,High School,732,864.0,0.0,2.3,31.3,51.0,3.4,0.1,11.9,15.6,30.2,77.9,52.8,76.9,29.5,52.8,1.0,,,,,14.7,15.0,7.2,9.5,33.3,,https://cdn.philasd.org/offices/performance/SPREE_Files/2023-2024/Reports/%5B8240%5D_SP_SPREE_SPOTlight.pdf
+8250,8250,Edwin Forrest School,,District,Network 11,Network 11,District 6,K-5,Catchment,High School,787,888.0,0.1,4.6,26.3,50.3,6.5,0.1,12.1,16.0,29.9,79.7,61.2,74.5,28.5,61.2,23.0,,,,,21.3,20.8,10.9,14.8,49.2,,https://cdn.philasd.org/offices/performance/SPREE_Files/2023-2024/Reports/%5B8250%5D_SP_SPREE_SPOTlight.pdf
+8260,8260,Fox Chase School,"Angelique Leizerowicz
+Sector District",District,Network 10,Network 10,District 10,K-5,Catchment,High School,472,517.0,0.0,9.8,23.5,23.1,7.6,0.2,35.8,22.9,18.4,63.4,73.9,91.7,45.5,73.9,23.0,,,,,52.7,51.3,42.7,38.2,71.6,,https://cdn.philasd.org/offices/performance/SPREE_Files/2023-2024/Reports/%5B8260%5D_SP_SPREE_SPOTlight.pdf
+8270,8270,Thomas Holme School,"Micah Winterstein
+Sector District",District,Network 11,Network 11,District 6,K-8,Catchment,High School,734,796.0,0.3,13.8,19.2,28.6,6.5,0.1,31.5,23.2,26.0,74.1,64.8,78.9,32.8,64.8,0.0,,,,,32.2,37.0,29.5,27.7,49.0,,https://cdn.philasd.org/offices/performance/SPREE_Files/2023-2024/Reports/%5B8270%5D_SP_SPREE_SPOTlight.pdf
+8300,8300,Mayfair School,"William Day Jr
+Sector District",District,Network 11,Network 11,District 6,K-8,Catchment,High School,1684,1855.0,0.5,27.0,7.2,41.5,2.0,0.2,21.6,9.6,57.8,64.9,75.2,83.2,52.3,75.2,4.0,,,,,30.9,35.9,37.0,29.8,43.4,,https://cdn.philasd.org/offices/performance/SPREE_Files/2023-2024/Reports/%5B8300%5D_SP_SPREE_SPOTlight.pdf
+8310,8310,J. Hampton Moore School,"Timothy Glynn
+Sector District",District,Network 10,Network 10,District 9,K-5,Catchment,High School,1136,1277.0,0.4,16.3,28.3,40.8,2.3,0.1,11.9,15.8,39.4,72.6,70.5,90.5,38.5,70.5,23.0,,,,,40.7,36.5,31.1,30.8,58.7,,https://cdn.philasd.org/offices/performance/SPREE_Files/2023-2024/Reports/%5B8310%5D_SP_SPREE_SPOTlight.pdf
+8340,8340,Solomon Solis-Cohen School,"Michelina Serianni
+Sector District",District,Network 10,Network 10,District 6,K-5,Catchment,High School,1276,1419.0,0.2,16.9,12.9,53.9,1.4,0.1,14.6,12.3,63.1,64.9,75.0,93.6,44.2,75.0,23.0,,,,,25.8,24.1,22.6,19.2,39.9,,https://cdn.philasd.org/offices/performance/SPREE_Files/2023-2024/Reports/%5B8340%5D_SP_SPREE_SPOTlight.pdf
+8350,8350,Gilbert Spruance School,,District,Network 10,Network 10,District 7,K-8,Catchment,High School,1239,1411.0,0.6,10.7,30.4,45.6,1.5,0.2,11.0,17.0,40.1,74.7,66.5,76.5,42.5,66.5,3.0,,,,,33.9,25.7,31.1,16.7,30.1,,https://cdn.philasd.org/offices/performance/SPREE_Files/2023-2024/Reports/%5B8350%5D_SP_SPREE_SPOTlight.pdf
+8360,8360,Rhawnhurst School,"Joy Ellis
+Sector District",District,Network 10,Network 10,District 10,K-5,Catchment,High School,629,679.0,0.2,28.3,16.5,28.0,2.2,0.5,24.3,10.5,45.8,70.1,72.3,86.8,42.9,72.3,23.0,,,,,38.0,36.4,28.3,30.9,49.5,,https://cdn.philasd.org/offices/performance/SPREE_Files/2023-2024/Reports/%5B8360%5D_SP_SPREE_SPOTlight.pdf
+8370,8370,Watson Comly School,"Raymond Realdine
+Sector District",District,Network 10,Network 10,District 10,K-5,Catchment,High School,586,672.0,0.3,26.6,8.9,10.6,2.9,0.0,50.7,12.3,44.7,61.6,83.5,92.9,53.0,83.5,23.0,,,,,45.6,45.1,45.6,45.3,65.1,,https://cdn.philasd.org/offices/performance/SPREE_Files/2023-2024/Reports/%5B8370%5D_SP_SPREE_SPOTlight.pdf
+8380,8380,Louis H. Farrell School,"Peter Jepsen
+Sector District",District,Network 10,Network 10,District 10,K-8,Catchment,High School,1145,1260.0,0.1,21.7,16.2,25.7,2.2,0.6,33.5,14.6,43.1,67.5,71.1,82.9,45.6,71.1,1.0,,,,,42.7,39.4,37.3,29.6,51.2,,https://cdn.philasd.org/offices/performance/SPREE_Files/2023-2024/Reports/%5B8380%5D_SP_SPREE_SPOTlight.pdf
+8390,8390,Aloysius L. Fitzpatrick School,"Jennifer Scanlan
+Sector District",District,Network 11,Network 11,District 10,K-8,Catchment,High School,789,879.0,0.0,8.6,27.0,18.8,4.7,0.1,40.8,17.7,16.0,67.7,63.9,80.0,32.0,63.9,0.0,,,,,35.6,40.5,26.0,26.9,52.0,,https://cdn.philasd.org/offices/performance/SPREE_Files/2023-2024/Reports/%5B8390%5D_SP_SPREE_SPOTlight.pdf
+8400,8400,Anne Frank School,"Max Komins
+Sector District",District,Network 10,Network 10,District 10,K-5,Catchment,High School,1482,1624.0,0.1,35.3,12.4,9.5,3.0,0.1,39.7,9.0,39.7,67.1,83.3,93.2,55.1,83.3,23.0,,,,,53.3,59.3,52.1,55.4,77.1,,https://cdn.philasd.org/offices/performance/SPREE_Files/2023-2024/Reports/%5B8400%5D_SP_SPREE_SPOTlight.pdf
+8410,8410,Robert B. Pollock School,"Yvette Jackson
+Sector District",District,Network 11,Network 11,District 6,K-8,Catchment,High School,742,862.0,0.7,16.3,33.3,25.3,3.6,0.0,20.8,16.9,24.3,71.7,66.1,86.3,36.7,66.1,4.0,,,,,39.1,42.9,33.3,26.7,45.9,,https://cdn.philasd.org/offices/performance/SPREE_Files/2023-2024/Reports/%5B8410%5D_SP_SPREE_SPOTlight.pdf
+8420,8420,Stephen Decatur School,"Douglas Strobel
+Sector District",District,Network 11,Network 11,District 10,K-8,Catchment,High School,966,1040.0,0.0,15.1,13.8,17.8,7.0,0.5,45.8,18.9,21.0,65.6,72.4,90.6,42.3,72.4,0.0,,,,,56.4,53.0,50.5,35.8,56.5,,https://cdn.philasd.org/offices/performance/SPREE_Files/2023-2024/Reports/%5B8420%5D_SP_SPREE_SPOTlight.pdf
+8430,8430,Joseph Greenberg School,"Leah Coleman
+Sector District",District,Network 10,Network 10,District 10,K-8,Catchment,High School,862,903.0,0.1,37.1,11.8,8.9,0.9,0.0,41.1,14.6,21.2,48.8,91.5,91.4,63.7,91.5,1.0,,,,,76.4,76.6,83.0,60.0,82.9,,https://cdn.philasd.org/offices/performance/SPREE_Files/2023-2024/Reports/%5B8430%5D_SP_SPREE_SPOTlight.pdf
+8440,8440,William H. Loesche School,"Sherin Kurian
+Sector District",District,Network 10,Network 10,District 10,K-5,Catchment,High School,1133,1289.0,0.2,38.0,3.7,5.4,2.8,0.1,49.8,10.9,64.3,61.4,85.3,80.5,56.0,85.3,23.0,,,,,53.0,47.7,48.0,49.9,59.8,,https://cdn.philasd.org/offices/performance/SPREE_Files/2023-2024/Reports/%5B8440%5D_SP_SPREE_SPOTlight.pdf
+8560,8560,The Workshop High School,"Ayanna Walker
+Sector District",District,Network 12,Network 12,District 3,9-12,Citywide,High School,189,194.0,1.6,0.5,91.5,2.7,2.7,0.0,1.1,23.8,1.1,89.4,46.4,95.0,16.5,46.4,1.0,89.5,0.0,4.0,17.1,,,,,,,https://cdn.philasd.org/offices/performance/SPREE_Files/2023-2024/Reports/%5B8560%5D_SP_SPREE_SPOTlight.pdf
+8770,8770,"Hancock, John Demonstration School","Melissa Bragg
+Sector District",District,Network 11,Network 11,District 10,K-8,Catchment,High School,763,815.0,0.0,10.6,16.8,21.1,3.8,0.1,47.6,27.5,13.5,66.5,72.2,90.0,42.6,72.2,0.0,,,,,59.7,53.6,48.0,33.5,58.1,,https://cdn.philasd.org/offices/performance/SPREE_Files/2023-2024/Reports/%5B8770%5D_SP_SPREE_SPOTlight.pdf
+8780,8780,Philadelphia Virtual Academy,"David Anderson
+Sector District",District,Network 13,Network 13,District 5,K-12,Virtual,High School,692,,0.1,3.3,64.6,18.6,4.6,0.0,8.7,,3.8,0.1,78.9,87.5,74.6,78.9,35.0,46.2,20.4,17.7,27.0,,32.0,,7.7,,,https://cdn.philasd.org/offices/performance/SPREE_Files/2023-2024/Reports/%5B8780%5D_SP_SPREE_SPOTlight.pdf

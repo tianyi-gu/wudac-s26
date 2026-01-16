@@ -273,34 +273,33 @@ def extract_demographics(text: str) -> Dict[str, Any]:
         if match:
             demographics[key] = float(match.group(1))
     
-    # Students with IEPs
-    match = re.search(r'([\d\.]+)%.*Students with IEPs', text, re.IGNORECASE)
-    if match:
-        demographics['pct_iep'] = float(match.group(1))
+    # The PDF text has specific patterns based on layout:
+    # Line: "679 24.3% for Score for Score" - 679 is students served, 24.3% is IEPs
+    # Line: "21.8% 80.7%" - 21.8% is English Learners, 80.7% is Economically Disadvantaged
+    # Line: "25.6% 40.4% Economically Disadvantaged" - 25.6% is attending 95%, 40.4% is attending 90%
     
-    # English Learners
-    match = re.search(r'([\d\.]+)%.*English Learners', text, re.IGNORECASE)
+    # Students served and IEPs - pattern like "679 24.3% for Score"
+    match = re.search(r'(\d{2,4})\s+([\d\.]+)%\s*(?:for\s*Score)?', text)
+    if match:
+        val1, val2 = int(match.group(1)), float(match.group(2))
+        # The larger number is students served, the smaller is IEPs percentage
+        if val1 > 100:
+            demographics['students_served_full_year'] = val1
+            demographics['pct_iep'] = val2
+    
+    # English Learners and Economically Disadvantaged - pattern like "21.8% 80.7%"
+    # This appears AFTER IEP line and BEFORE attendance line
+    match = re.search(r'([\d\.]+)%\s+([\d\.]+)%\s*\n.*?%\s*of\s*Students\s*Identified\s*as.*?English\s*Learners.*?Economically\s*Disadvantaged', text, re.IGNORECASE | re.DOTALL)
     if match:
         demographics['pct_english_learners'] = float(match.group(1))
+        demographics['pct_economically_disadvantaged'] = float(match.group(2))
     
-    # Economically Disadvantaged
-    match = re.search(r'([\d\.]+)%.*Economically Disadvantaged', text, re.IGNORECASE)
-    if match:
-        demographics['pct_economically_disadvantaged'] = float(match.group(1))
-    
-    # Students served over full year
-    match = re.search(r'(\d+)\s*#?\s*of\s*Students\s*Served', text, re.IGNORECASE)
-    if match:
-        demographics['students_served_full_year'] = int(match.group(1))
-    
-    # Attendance metrics from SPREE
-    match = re.search(r'([\d\.]+)%.*Attending at Least 95%', text)
+    # Attendance metrics - pattern like "25.6% 40.4% Economically Disadvantaged" followed by "% of Students Attending"
+    # Need to match the line that ends with "Economically Disadvantaged" and then "% of Students Attending"
+    match = re.search(r'([\d\.]+)%\s+([\d\.]+)%\s+Economically\s*Disadvantaged\s*\n.*?%\s*of\s*Students\s*Attending', text, re.IGNORECASE | re.DOTALL)
     if match:
         demographics['pct_attend_95plus'] = float(match.group(1))
-    
-    match = re.search(r'([\d\.]+)%.*Attending at Least 90%', text)
-    if match:
-        demographics['pct_attend_90plus'] = float(match.group(1))
+        demographics['pct_attend_90plus'] = float(match.group(2))
     
     return demographics
 
@@ -338,28 +337,31 @@ def extract_academic_performance(text: str, tables: List) -> Dict[str, Any]:
             performance['keystone_literature_2324'] = float(match.group(1))
     
     # PSSA scores (for elementary/middle schools)
-    # Grade 3 Reading
-    match = re.search(r'Grade 3 Reading.*?([\d\.]+)%', text)
+    # Format: "Grade 3 Reading 51.1% 46.4% -4.7 %-pts 46.4% 46.3% -0.1 %-pts"
+    # We need the 5th percentage (2023-24 results), which is the second-to-last before the final progress
+    
+    # Grade 3 Reading - get the 2023-24 value (5th percentage or pattern with %-pts before it)
+    match = re.search(r'Grade 3 Reading\s+[\d\.]+%\s+[\d\.]+%\s+[+\-]?[\d\.]+\s*%-?pts\s+[\d\.]+%\s+([\d\.]+)%', text)
     if match:
         performance['pssa_grade3_reading'] = float(match.group(1))
     
     # Grade 3-8 Reading
-    match = re.search(r'Grade 3\s*-?\s*8 Reading.*?([\d\.]+)%', text)
+    match = re.search(r'Grade 3\s*-?\s*8 Reading\s+[\d\.]+%\s+[\d\.]+%\s+[+\-]?[\d\.]+\s*%-?pts\s+[\d\.]+%\s+([\d\.]+)%', text)
     if match:
         performance['pssa_grade3_8_reading'] = float(match.group(1))
     
     # Grade 3 Math
-    match = re.search(r'Grade 3 Math.*?([\d\.]+)%', text)
+    match = re.search(r'Grade 3 Math\s+[\d\.]+%\s+[\d\.]+%\s+[+\-]?[\d\.]+\s*%-?pts\s+[\d\.]+%\s+([\d\.]+)%', text)
     if match:
         performance['pssa_grade3_math'] = float(match.group(1))
     
     # Grade 3-8 Math
-    match = re.search(r'Grade 3\s*-?\s*8 Math.*?([\d\.]+)%', text)
+    match = re.search(r'Grade 3\s*-?\s*8 Math\s+[\d\.]+%\s+[\d\.]+%\s+[+\-]?[\d\.]+\s*%-?pts\s+[\d\.]+%\s+([\d\.]+)%', text)
     if match:
         performance['pssa_grade3_8_math'] = float(match.group(1))
     
     # Grade 4 and 8 Science
-    match = re.search(r'Grade 4 and 8 Science.*?([\d\.]+)%', text)
+    match = re.search(r'Grade 4 and 8 Science\s+[\d\.]+%\s+[\d\.]+%\s+[+\-]?[\d\.]+\s*%-?pts\s+[\d\.]+%\s+([\d\.]+)%', text)
     if match:
         performance['pssa_science'] = float(match.group(1))
     
@@ -368,7 +370,7 @@ def extract_academic_performance(text: str, tables: List) -> Dict[str, Any]:
     if match:
         performance['nocti_2324'] = float(match.group(1))
     
-    # Try to extract from tables as well
+    # Try to extract from tables as well, but skip if "Not Applicable" is in the row
     for table in tables:
         if not table:
             continue
@@ -377,29 +379,40 @@ def extract_academic_performance(text: str, tables: List) -> Dict[str, Any]:
                 continue
             row_text = ' '.join(str(cell or '') for cell in row)
             
-            # Keystone Algebra
-            if 'Algebra' in row_text and 'keystone_algebra_2324' not in performance:
-                for cell in row:
-                    val = extract_number(str(cell or ''))
-                    if val and 0 < val <= 100:
-                        performance['keystone_algebra_2324'] = val
-                        break
+            # Skip rows with "Not Applicable"
+            if 'Not Applicable' in row_text:
+                continue
             
-            # Keystone Biology
+            # Keystone Algebra - only extract if we have a percentage and it's a valid score
+            if 'Algebra' in row_text and 'keystone_algebra_2324' not in performance:
+                # Look for a cell with a percentage value
+                for cell in row:
+                    cell_str = str(cell or '')
+                    if '%' in cell_str:
+                        val = extract_number(cell_str)
+                        if val and 0 < val <= 100:
+                            performance['keystone_algebra_2324'] = val
+                            break
+            
+            # Keystone Biology - only extract if we have a percentage
             if 'Biology' in row_text and 'keystone_biology_2324' not in performance:
                 for cell in row:
-                    val = extract_number(str(cell or ''))
-                    if val and 0 < val <= 100:
-                        performance['keystone_biology_2324'] = val
-                        break
+                    cell_str = str(cell or '')
+                    if '%' in cell_str:
+                        val = extract_number(cell_str)
+                        if val and 0 < val <= 100:
+                            performance['keystone_biology_2324'] = val
+                            break
             
-            # Keystone Literature
+            # Keystone Literature - only extract if we have a percentage
             if 'Literature' in row_text and 'keystone_literature_2324' not in performance:
                 for cell in row:
-                    val = extract_number(str(cell or ''))
-                    if val and 0 < val <= 100:
-                        performance['keystone_literature_2324'] = val
-                        break
+                    cell_str = str(cell or '')
+                    if '%' in cell_str:
+                        val = extract_number(cell_str)
+                        if val and 0 < val <= 100:
+                            performance['keystone_literature_2324'] = val
+                            break
     
     return performance
 
